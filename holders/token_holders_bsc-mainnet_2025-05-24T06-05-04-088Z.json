@@ -1,0 +1,1518 @@
+{
+  "data": {
+    "updated_at": "2025-05-24T06:03:22.869132235Z",
+    "chain_id": 56,
+    "chain_name": "bsc-mainnet",
+    "items": [
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x3af23717c7637595b7c95d9e03b2a08d0470290d",
+        "balance": "200000000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xd7cda9ea2d23e8f473bb49225234449282ad6a62",
+        "balance": "200000000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xc22a28447453a2f1c2a6867a2d61153498ec13f2",
+        "balance": "145000000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x3f36d044c50cc701e1afa9e1425c632e59afba4c",
+        "balance": "125000000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xccdbff508f5d8544af01103a719325890c24b508",
+        "balance": "100000000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x882606470f29aba05856abf1b077cc55ad2a9ad9",
+        "balance": "40460859227330000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+        "balance": "28105116576104959315375583",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xce94aba9086f408b3f2af4e8b5ac1abc42f4da9a",
+        "balance": "26075152842842460643988528",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xbbd5c1a40fafaea7a00d23d2f8be68aa7a767989",
+        "balance": "23595211866886200000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xba62c98d420caef91e4d731edea7265fdd60d664",
+        "balance": "20000000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+        "balance": "14749500903175519239636860",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x8a2725a6f04816a5274ddd9feadd3bd0c253c1a6",
+        "balance": "6601689255756583400000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
+        "balance": "5481617197444068799000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x6ca6184e977f5d7cd6ed961f2e15ba94d980ca5d",
+        "balance": "4130825561471890000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x7fcbd9d429932a11884cb5ce9c61055b369f56f7",
+        "balance": "3438380793333340000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x73d8bd54f7cf5fab43fe4ef40a62d390644946db",
+        "balance": "2932850305027457792360511",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x53f78a071d04224b8e254e243fffc6d9f2f3fa23",
+        "balance": "2452302232396729088062359",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x951b9db7c1d3669bf76d3c8db8cab650b7456d1e",
+        "balance": "2262907296218480863703701",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x2e02df052e7c4a12e1b334dc3d182c39bb754dc3",
+        "balance": "2214005287351205456683831",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xa8590cbabf52e2ae60d33d598a58ea46298e3f56",
+        "balance": "1747068161389294009497828",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xf2d8eba37375329553bda63f084ea826847d7733",
+        "balance": "1550622000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xce72570868442ef4797d2e4cdbf897ad1187c2c8",
+        "balance": "1547515000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x93d9e80a903d2b752ce2cc2e92b54676a93b8f3b",
+        "balance": "1546839000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xf77e9237f5e395956764963d8b08bbdd64beb1c8",
+        "balance": "1546445000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x551996a92a0b9be5f4cae5551752e5ead9837e70",
+        "balance": "1546346000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x3eedefa581d20ba4c1976c08893052df3f39ec49",
+        "balance": "1546252000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x89f3fac620f5785dbe037368853c7caa4b090c51",
+        "balance": "1546119000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x9b1427b9fbcb7718aa30924231a2d4f6db9c3b7e",
+        "balance": "1546087000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xedc252128d52b0770614f6d6fb63d9335df5ed3b",
+        "balance": "1546024000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x95f61ce8cec309d3ad72cf276ed5f594c3a4b8d5",
+        "balance": "1546004000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xab607788edf55dfd3c8ccfbc5795457a54d19229",
+        "balance": "1545974000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x80eb07a6156a7a35d1a76ea19c06538b358e5f24",
+        "balance": "1545908000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x08cf22667d34073563369e087b5704bcc67ebfb4",
+        "balance": "1545800000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x70d509cb7d35fa5d614087ffdb9ab9a004c94464",
+        "balance": "1545700000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xa6944349eb261d488fe0e968018b3bc5318430d9",
+        "balance": "1545644000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x927f77ac929be7e3445a6d28c039fc32d4c83613",
+        "balance": "1545635000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x52cc60c1a4ea15ee13e48267938114f5dbdf2b13",
+        "balance": "1545554000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x7451dcda5b1ddceab7a53f749e14867189ccef8e",
+        "balance": "1545252000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xfeee1f0d4d7c0fbe0e3836b51e37d5ba2577c58b",
+        "balance": "1544352000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1de819dddc3ed8079cad612e24425eedd0f6ce3b",
+        "balance": "1543652000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x8027ac78c340d81356a0286e03b7216e9eb40f95",
+        "balance": "814314000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+        "balance": "721043603552877996081656",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xe9786294973de1cd376a0a6189d7ae250d490c16",
+        "balance": "654195635926157054644389",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xfd7ac7e9dfbb78a0ab17b2476bb890f178120d1d",
+        "balance": "637783201714903320226965",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1fb42f32200f700ab67e4f0519a1d335f39b7473",
+        "balance": "600000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x5565d64f29ea17355106df3ba5903eb793b3e139",
+        "balance": "411549365689032384235495",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xad9ab6b2c98ef38f9ee3cee9961f2af23deda3cb",
+        "balance": "404582809014282823122172",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xe4de1d9f8bd302d8904e3cde6bed32f5d9a3ce73",
+        "balance": "388257519719235867456493",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x8d22698eba2126c6140ba52376ee84e71166459d",
+        "balance": "290118269187127490445380",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xe16445ab6b7ea70380ce2d0c672cd7a8cd7a16f0",
+        "balance": "279157910000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xb7007ddc2283c5d4df000d19b4e6bea14f608226",
+        "balance": "253768780000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x32e3e876aa0c1732ed9efcf9d8615de7afaef59f",
+        "balance": "230651029168032099895046",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x61abd70249ab1626c4500b4cd2156d1f1a0406fa",
+        "balance": "218182155401023572559131",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x8b043aacf9436c9c1505d349056b52c1412c6cff",
+        "balance": "218078160000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x29bbc2b5aff41a2143f7d28fe6944453178f1473",
+        "balance": "184374486552545136818000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x81a254942e563142779de7b67d3996e9bfd38b1e",
+        "balance": "179321770000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x648da78dc1815f8d12af20edb8261b3daeccb9a5",
+        "balance": "144142315345719285520406",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x7c0b2511dd7bcf3024fecdeda4caaa1803283d50",
+        "balance": "143513190843956387427427",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xf95f84e2bad9c234f93dd66614b82f9a854b452e",
+        "balance": "143151849147739719421356",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xdd53ccc825f4582e8c7e35ba0bffcf55cf3863b6",
+        "balance": "139735010657076856884598",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1b72bac3772050fdcaf468cce7e20deb3cb02d89",
+        "balance": "116481364918499534742931",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x5d9b3be809728d1f674d7fa6f387a8f7c7052e1c",
+        "balance": "109584564200000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xc09796718f49a9759c535c6b9c23bc76b1b1323d",
+        "balance": "105601124154850000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xdfde28560129ee7f2e76a193cc17e24b048cfc18",
+        "balance": "97694560554703785369534",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xd8be227dabc9aef3e261335354f10898b0287c48",
+        "balance": "90000252348988150918769",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x74db6bfa2fed075c4eef5bb68e4f73d32225ef30",
+        "balance": "76994248720326406689652",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x0be39b8d86b7215d67202b039f29361428b08dca",
+        "balance": "75616602534300000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x9bdd910b824b23eb0fee6d1fec7c09e07447deb5",
+        "balance": "66630095592323233745956",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x2b3bf74b29f59fb8dda41cf3d6a8da28cf8e7921",
+        "balance": "63681123464533340000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xf318cde0a6c065edeaa77d982b4f979821de013b",
+        "balance": "62746794473157998904561",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xd96e09913ee3e3afafe0921e2baf973aac8483d9",
+        "balance": "62500000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xd93df2850f67ca341f93f3526cbad40cd7da3d13",
+        "balance": "60653821450852160061060",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xc5b8aa0323e36905461da442389abbd8e6af3f58",
+        "balance": "54702756231929778532108",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xdedab45b4fbcf892c608b500cb7fe86c9b4dec09",
+        "balance": "51843094004178422432040",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xa23ef2319ba4c933ebfdba80c332664a6cb13f1a",
+        "balance": "51511294885116214733558",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x283048844959fcc5d7b93c168d66be72fad21d5d",
+        "balance": "51071985024225281220900",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xb751836846799ca8f75f15807ec99c28ba3cbbfb",
+        "balance": "49387960000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xe2a145f82c0a1c3911bd61c386c12d235da46423",
+        "balance": "46404339819665133702404",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x3942f7b55094250644cffda7160226caa349a38e",
+        "balance": "42159082636480580359478",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x4b6c68c959b4a0cd97569a38bb8aa423950d6a0e",
+        "balance": "39166423257446629045476",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x095483a98b6d864d510bccfe5d78991305ca5240",
+        "balance": "38883864102484522209595",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x4b350b4d6d57497d1adf1d910da5e1ee63e2b186",
+        "balance": "38390765318511574720469",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xf17ba44e9db4b3244ca667b4dcd530f9b7abe891",
+        "balance": "35431469797762022386685",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x12c24bb5beb721a0e179caad783376655db258ad",
+        "balance": "34976157545712421248687",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1d5867cd60584afc2d84355447e4688e407bd173",
+        "balance": "30213320664186953793925",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xbbb5008da7ef90a416a4389fdad3872d6896cff9",
+        "balance": "30000005944087293122782",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xf36cdcd69222f4b128e8f0df48c2914ee8e9288f",
+        "balance": "29717310267481013395015",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x4cd0cfce6ac3c69b207d1062db485e84b853d35d",
+        "balance": "29440916717953242245802",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xc4026b7874776b91d9a69b6342502bd7b253ff66",
+        "balance": "29381644336965384628949",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x3be67aeadf6d83f0aff59d27e8cf0c004eae5186",
+        "balance": "28961962000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x4de0ce34681e0ed4e7c4fcae1650b05daf9de047",
+        "balance": "28892791344300588180012",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1652029146e39eff5549204f39eb01b88d6adca6",
+        "balance": "28356969113122056067970",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xdb3ded7731c781224ec292e2163d9554c094fd7c",
+        "balance": "28090813980640108955333",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1ab1a94cf30fc58d07664d1879c60a75f82393bd",
+        "balance": "27974955178712905951159",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xa7082d7935830e476932196d241d5db60529b4af",
+        "balance": "27041280600000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x317cd61fa24e2e4068b4c47bd58d5fc9f4e7a12b",
+        "balance": "25800000011280000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xe67f5c12e29d757fa96325de9dd29889e4d02be5",
+        "balance": "25368094333593548058178",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x1c3944173abee256456b1498299fc501ad5bbd6f",
+        "balance": "25033539300000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0x67e71a3b2f34b7cb7b5b0162ec1260a6ac034fd8",
+        "balance": "25000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      },
+      {
+        "contract_decimals": 18,
+        "contract_name": "Bedrock",
+        "contract_ticker_symbol": "BR",
+        "contract_address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "supports_erc": [
+          "erc20",
+          "erc165"
+        ],
+        "logo_url": "https://logos.covalenthq.com/tokens/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41.png",
+        "address": "0xe97ae8cd75b9358c2e7b2b3db29f22cd299311af",
+        "balance": "25000000000000000000000",
+        "total_supply": "1000000000000000000000000000",
+        "block_height": 50215402
+      }
+    ],
+    "pagination": {
+      "has_more": true,
+      "page_number": 0,
+      "page_size": 100,
+      "total_count": 79987
+    }
+  },
+  "error": false,
+  "error_message": null,
+  "error_code": null
+}

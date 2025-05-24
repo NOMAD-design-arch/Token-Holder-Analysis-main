@@ -1,0 +1,10 @@
+{
+  "totalDynamicLabels": 0,
+  "labels": [],
+  "queryStats": {
+    "cacheSize": 0,
+    "recentRequests": 0,
+    "rateLimitRemaining": 100,
+    "hasApiKey": true
+  }
+}
