@@ -5,7 +5,7 @@
 
 import fs from 'fs';
 import path from 'path';
-import { DuneAPIHelper } from './duneAPIHelper.js';
+import { DuneAPIHelper } from './utils/duneAPIHelper.js';
 
 /**
  * Bedrock Token Analysis Class
@@ -567,7 +567,7 @@ class BedrockTokenAnalysis {
      * 保存分析结果（增强版）
      * @param {string} outputDir - 输出目录
      */
-    saveResults(outputDir = 'analysis-results') {
+    saveResults(outputDir = './results/analysis-results') {
         if (!this.processedData) {
             throw new Error("请先处理持有者数据");
         }

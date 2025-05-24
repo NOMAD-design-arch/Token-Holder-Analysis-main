@@ -1,4 +1,4 @@
-import { BedrockTokenAnalysis } from './src/tokenAnalysis.js';
+import { BedrockTokenAnalysis } from '../src/tokenAnalysis.js';
 
 async function runAnalysis() {
     console.log("🚀 启动Bedrock代币分析...\n");

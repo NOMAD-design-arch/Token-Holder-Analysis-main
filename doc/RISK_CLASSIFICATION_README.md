@@ -1,0 +1,348 @@
+# 风险地址分类系统 
+
+## 📋 功能概述
+
+这是一个智能的区块链地址风险分类系统，能够自动识别和分类钱包地址的类型，支持以下四种分类：
+
+### 🏦 分类类型
+
+1. **CEX (中心化交易所)**
+   - 基于已知交易所标签数据库识别
+   - 检测典型的存款/提款模式
+   - 分析多样化的交易对手方
+
+2. **Market Makers (做市商)**
+   - 检测高频双向交易模式
+   - 分析交易时间间隔的规律性
+   - 识别多代币种类的交易活动
+
+3. **Team/Vesting (团队/锁仓地址)**
+   - 识别来自合约的定期转账
+   - 检测规律性的释放模式
+   - 分析周期性转账时间
+
+4. **Unknown (未知类型)**
+   - 不符合以上任何模式的地址
+
+## 🚀 快速开始
+
+### 1. 环境准备
+
+首先安装必要的依赖：
+
+```bash
+npm install axios dotenv
+```
+
+### 2. API密钥配置
+
+创建 `.env` 文件并配置以下API密钥：
+
+```bash
+# BSCScan API密钥 (必需)
+# 获取地址: https://bscscan.com/apis
+BSC_API_KEY=你的BSCScanAPI密钥
+
+# Dune Analytics API密钥 (可选，用于标签查询)
+# 获取地址: https://dune.com/settings/api  
+DUNE_API_KEY=你的DuneAPI密钥
+```
+
+### 3. 运行方式
+
+#### 方式1: 交互式命令行工具 (推荐)
+
+```bash
+node run_risk_classification.js
+```
+
+这将启动一个友好的交互界面，支持：
+- ✅ 单个地址分析
+- ✅ 批量地址分析
+- ✅ 从文件读取地址列表
+- ✅ 查看配置信息
+
+#### 方式2: 直接使用分类器
+
+```bash
+node risk_Address_Classification.js
+```
+
+这将运行内置的示例代码。
+
+## 📖 使用说明
+
+### 单个地址分析
+
+```javascript
+import { RiskAddressClassifier } from './risk_Address_Classification.js';
+
+const classifier = new RiskAddressClassifier();
+const result = await classifier.classifyAddress('0x1234...abcd');
+
+console.log(result);
+// 输出:
+// {
+//   address: '0x1234...abcd',
+//   classification: 'CEX',
+//   confidence: 0.85,
+//   details: { ... }
+// }
+```
+
+### 批量地址分析
+
+```javascript
+const addresses = [
+  '0x1234...abcd',
+  '0x5678...efgh', 
+  '0x9abc...ijkl'
+];
+
+const results = await classifier.batchClassifyAddresses(addresses);
+const report = classifier.generateReport(results);
+
+// 导出结果
+await classifier.exportResults(report, 'my_analysis.json');
+```
+
+### 从文件读取地址
+
+创建一个文本文件，每行一个地址：
+
+```
+addresses.txt
+============
+0x1234567890abcdef1234567890abcdef12345678
+0xabcdef1234567890abcdef1234567890abcdef12
+0x567890abcdef1234567890abcdef1234567890ab
+```
+
+然后使用交互式工具选择"从文件读取地址列表进行分析"。
+
+## 🎯 分类算法详解
+
+### CEX检测算法
+
+1. **标签匹配**: 查询本地和Dune数据库中的已知交易所标签
+2. **存款模式分析**: 计算入金/出金比例，CEX通常有更多入金
+3. **交易对手方多样性**: 分析与多少个不同地址进行过交易
+4. **代币多样性**: 统计支持的代币种类数量
+
+**评分权重**:
+- 已知标签匹配: 60%
+- 存款导向模式: 20% 
+- 交易对手多样性: 10%
+- 代币多样性: 10%
+
+### Market Maker检测算法
+
+1. **双向交易比例**: 计算买入/卖出交易的平衡度
+2. **交易频率分析**: 检测高频交易模式
+3. **时间间隔规律**: 分析交易时间间隔的分布
+4. **代币种类多样性**: 统计交易的代币种类
+
+**评分权重**:
+- 双向交易比例: 30%
+- 高频交易: 25%
+- 代币种类: 20% 
+- 日均交易量: 25%
+
+**阈值配置**:
+- 最小交易数: 100笔
+- 双向交易比例: ≥30%
+- 平均交易间隔: ≤1小时
+- 最小代币种类: 5种
+
+### Team/Vesting检测算法
+
+1. **合约转出检测**: 识别是否主要从合约地址转出
+2. **时间规律性分析**: 计算转账时间间隔的标准差
+3. **周期性模式识别**: 检测周度/月度释放模式
+4. **金额一致性**: 分析转账金额的规律性
+
+**评分权重**:
+- 合约转出比例: 40%
+- 时间规律性: 30%
+- 周期性模式: 30%
+
+**阈值配置**:
+- 最小转出交易: 10笔
+- 合约转出比例: ≥80%
+- 规律性得分: ≥70%
+
+## 📊 输出结果详解
+
+### 分类结果结构
+
+```javascript
+{
+  "address": "0x...",                    // 被分析的地址
+  "classification": "CEX",               // 分类结果
+  "confidence": 0.85,                    // 置信度(0-1)
+  "details": {
+    "localLabel": {                      // 本地标签信息
+      "custodyOwner": "Binance",
+      "ownerKey": "binance",
+      "blockchain": "bnb"
+    },
+    "duneLabels": [...],                 // Dune查询标签
+    "cexAnalysis": {                     // CEX分析结果
+      "isCEX": true,
+      "score": 0.85,
+      "factors": ["已知交易所: Binance"],
+      "stats": {...}
+    },
+    "marketMakerAnalysis": {...},        // 做市商分析
+    "vestingAnalysis": {...}            // 锁仓分析
+  },
+  "timestamp": "2024-01-01T00:00:00.000Z"
+}
+```
+
+### 批量分析报告
+
+```javascript
+{
+  "total": 100,                         // 总地址数
+  "classifications": {                  // 分类统计
+    "CEX": 25,
+    "Market Makers": 15,
+    "Team/Vesting": 10,
+    "Unknown": 50
+  },
+  "highConfidence": 40,                 // 高置信度(≥80%)
+  "mediumConfidence": 30,               // 中等置信度(50-80%)
+  "lowConfidence": 30,                  // 低置信度(<50%)
+  "details": [...]                      // 详细结果数组
+}
+```
+
+## ⚙️ 配置选项
+
+### 阈值调整
+
+可以在代码中修改分类阈值：
+
+```javascript
+this.thresholds = {
+  marketMaker: {
+    minTransactions: 100,        // 调整最小交易数
+    bidirectionalRatio: 0.3,     // 调整双向交易比例阈值
+    avgTimeInterval: 3600,       // 调整平均时间间隔
+    uniqueTokens: 5              // 调整最小代币种类
+  },
+  teamVesting: {
+    regularityScore: 0.7,        // 调整规律性阈值
+    fromContractRatio: 0.8,      // 调整合约转出比例
+  },
+  cex: {
+    minTransactions: 50,         // 调整最小交易数
+    depositPattern: 0.6,         // 调整存款模式阈值
+  }
+};
+```
+
+### API配置
+
+```javascript
+// BSCScan API配置
+const params = {
+  page: 1,
+  offset: 1000,          // 获取交易数量(最大10000)
+  sort: 'desc'           // 排序方式
+};
+```
+
+## 📁 输出文件
+
+### 结果文件位置
+
+所有分析结果会保存到 `./classification-results/` 目录：
+
+- `single_address_analysis_[timestamp].json` - 单地址分析结果
+- `batch_analysis_[timestamp].json` - 批量分析结果  
+- `file_analysis_[timestamp].json` - 文件分析结果
+
+### 文件格式
+
+结果文件为标准JSON格式，可以用其他工具进一步处理。
+
+## 🔧 故障排除
+
+### 常见问题
+
+1. **BSCScan API限制**
+   - 免费版每秒限制5次请求
+   - 确保设置了正确的延迟
+   - 考虑升级到付费版本
+
+2. **Dune API限制**  
+   - 免费版有查询限制
+   - 系统会自动回退到Mock数据
+   - 可以禁用Dune查询仅使用本地标签
+
+3. **内存使用**
+   - 大批量分析可能消耗较多内存
+   - 建议分批处理(默认每批5个地址)
+
+### 调试模式
+
+启用详细日志输出：
+
+```bash
+LOG_LEVEL=debug node run_risk_classification.js
+```
+
+### 性能优化
+
+1. **缓存机制**: 系统自动缓存查询结果
+2. **批量处理**: 合理设置批处理大小
+3. **API密钥**: 配置高级API密钥以获得更高限制
+
+## 📈 准确性说明
+
+### 置信度指标
+
+- **≥80%**: 高置信度，推荐直接使用
+- **50-80%**: 中等置信度，建议人工验证  
+- **<50%**: 低置信度，需要进一步分析
+
+### 局限性
+
+1. **数据依赖**: 分析质量依赖于交易数据的完整性
+2. **模式识别**: 基于统计模式，可能存在误判
+3. **标签覆盖**: 本地标签库可能不够全面
+4. **时效性**: 地址用途可能随时间变化
+
+### 建议
+
+- 结合多种数据源进行验证
+- 定期更新标签数据库
+- 根据具体业务场景调整阈值
+- 对高风险分类进行人工复核
+
+## 🔄 更新和维护
+
+### 标签数据更新
+
+定期更新本地标签数据：
+
+1. 从Dune Analytics导出最新标签
+2. 替换 `./label/` 目录下的JSON文件
+3. 重启系统以加载新数据
+
+### 算法优化
+
+根据实际使用效果调整：
+
+1. 分析误判案例
+2. 调整阈值参数
+3. 增加新的检测特征
+4. 优化权重分配
+
+## 📞 技术支持
+
+如有问题或建议，请提交Issue或联系开发团队。
+
+---

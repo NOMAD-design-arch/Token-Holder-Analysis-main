@@ -1,0 +1,1281 @@
+{
+  "summary": {
+    "totalHolders": 1000,
+    "totalCirculatingSupply": 1000000000,
+    "analysisTimestamp": "2025-05-24T16:20:17.476Z"
+  },
+  "topHoldersAnalysis": {
+    "top1": {
+      "balance": 165162023.65824974,
+      "percentage": 16.516202365824974,
+      "holders": [
+        {
+          "rank": 1,
+          "address": "0x87c22bd5be9f3",
+          "balance": 165162023.65824974,
+          "percentage": 16.516202365824974
+        }
+      ],
+      "count": 1
+    },
+    "top5": {
+      "balance": 665886354.2192489,
+      "percentage": 66.58863542192489,
+      "holders": [
+        {
+          "rank": 1,
+          "address": "0x87c22bd5be9f3",
+          "balance": 165162023.65824974,
+          "percentage": 16.516202365824974
+        },
+        {
+          "rank": 2,
+          "address": "0x633160c653738",
+          "balance": 131608643.97482565,
+          "percentage": 13.160864397482564
+        },
+        {
+          "rank": 3,
+          "address": "0x29c143fe5aa56",
+          "balance": 126560756.1209452,
+          "percentage": 12.65607561209452
+        },
+        {
+          "rank": 4,
+          "address": "0x9aa3137afa6fb",
+          "balance": 121867107.39754894,
+          "percentage": 12.186710739754893
+        },
+        {
+          "rank": 5,
+          "address": "0x8a045c7832b4b",
+          "balance": 120687823.06767942,
+          "percentage": 12.068782306767943
+        }
+      ],
+      "count": 5
+    },
+    "top10": {
+      "balance": 1052319234.0995574,
+      "percentage": 105.23192340995573,
+      "holders": [
+        {
+          "rank": 1,
+          "address": "0x87c22bd5be9f3",
+          "balance": 165162023.65824974,
+          "percentage": 16.516202365824974
+        },
+        {
+          "rank": 2,
+          "address": "0x633160c653738",
+          "balance": 131608643.97482565,
+          "percentage": 13.160864397482564
+        },
+        {
+          "rank": 3,
+          "address": "0x29c143fe5aa56",
+          "balance": 126560756.1209452,
+          "percentage": 12.65607561209452
+        },
+        {
+          "rank": 4,
+          "address": "0x9aa3137afa6fb",
+          "balance": 121867107.39754894,
+          "percentage": 12.186710739754893
+        },
+        {
+          "rank": 5,
+          "address": "0x8a045c7832b4b",
+          "balance": 120687823.06767942,
+          "percentage": 12.068782306767943
+        },
+        {
+          "rank": 6,
+          "address": "0x1dca735bf3292",
+          "balance": 110204585.01297575,
+          "percentage": 11.020458501297576
+        },
+        {
+          "rank": 7,
+          "address": "0xb45ec378527e7",
+          "balance": 102034219.38109961,
+          "percentage": 10.20342193810996
+        },
+        {
+          "rank": 8,
+          "address": "0xb48482a99ee2d",
+          "balance": 80666634.32592887,
+          "percentage": 8.066663432592886
+        },
+        {
+          "rank": 9,
+          "address": "0xa13dd8831472d",
+          "balance": 69335650.11551209,
+          "percentage": 6.933565011551209
+        },
+        {
+          "rank": 10,
+          "address": "0x8476b444d8a85",
+          "balance": 24191791.044792213,
+          "percentage": 2.4191791044792215
+        }
+      ],
+      "count": 10
+    },
+    "top20": {
+      "balance": 1052316440.9868423,
+      "percentage": 105.23164409868421,
+      "holders": [
+        {
+          "rank": 1,
+          "address": "0x87c22bd5be9f3",
+          "balance": 165162023.65824974,
+          "percentage": 16.516202365824974
+        },
+        {
+          "rank": 2,
+          "address": "0x633160c653738",
+          "balance": 131608643.97482565,
+          "percentage": 13.160864397482564
+        },
+        {
+          "rank": 3,
+          "address": "0x29c143fe5aa56",
+          "balance": 126560756.1209452,
+          "percentage": 12.65607561209452
+        },
+        {
+          "rank": 4,
+          "address": "0x9aa3137afa6fb",
+          "balance": 121867107.39754894,
+          "percentage": 12.186710739754893
+        },
+        {
+          "rank": 5,
+          "address": "0x8a045c7832b4b",
+          "balance": 120687823.06767942,
+          "percentage": 12.068782306767943
+        },
+        {
+          "rank": 6,
+          "address": "0x1dca735bf3292",
+          "balance": 110204585.01297575,
+          "percentage": 11.020458501297576
+        },
+        {
+          "rank": 7,
+          "address": "0xb45ec378527e7",
+          "balance": 102034219.38109961,
+          "percentage": 10.20342193810996
+        },
+        {
+          "rank": 8,
+          "address": "0xb48482a99ee2d",
+          "balance": 80666634.32592887,
+          "percentage": 8.066663432592886
+        },
+        {
+          "rank": 9,
+          "address": "0xa13dd8831472d",
+          "balance": 69335650.11551209,
+          "percentage": 6.933565011551209
+        },
+        {
+          "rank": 10,
+          "address": "0x8476b444d8a85",
+          "balance": 24191791.044792213,
+          "percentage": 2.4191791044792215
+        },
+        {
+          "rank": 11,
+          "address": "0x590c2ba3763ae",
+          "balance": -18.392242909303103,
+          "percentage": -0.0000018392242909303106
+        },
+        {
+          "rank": 12,
+          "address": "0x6ece1830881f6",
+          "balance": -23.031366853830733,
+          "percentage": -0.000002303136685383073
+        },
+        {
+          "rank": 13,
+          "address": "0xd66a399423385",
+          "balance": -74.76477327942997,
+          "percentage": -0.000007476477327942998
+        },
+        {
+          "rank": 14,
+          "address": "0x28f7818ea65ca",
+          "balance": -215.05429006845253,
+          "percentage": -0.00002150542900684525
+        },
+        {
+          "rank": 15,
+          "address": "0x0176f0c97827",
+          "balance": -215.9187862988039,
+          "percentage": -0.00002159187862988039
+        },
+        {
+          "rank": 16,
+          "address": "0x34df50cb25037",
+          "balance": -226.51162101247826,
+          "percentage": -0.000022651162101247827
+        },
+        {
+          "rank": 17,
+          "address": "0x779a3907a7715",
+          "balance": -232.23808006464824,
+          "percentage": -0.000023223808006464824
+        },
+        {
+          "rank": 18,
+          "address": "0x93e282505836d",
+          "balance": -495.9203427051032,
+          "percentage": -0.00004959203427051032
+        },
+        {
+          "rank": 19,
+          "address": "0xa43611be1726d",
+          "balance": -608.2920987150309,
+          "percentage": -0.00006082920987150309
+        },
+        {
+          "rank": 20,
+          "address": "0x893e8424a45fc",
+          "balance": -682.9891133526316,
+          "percentage": -0.00006829891133526317
+        }
+      ],
+      "count": 20
+    },
+    "top50": {
+      "balance": 1052254790.2941922,
+      "percentage": 105.2254790294192,
+      "holders": [
+        {
+          "rank": 1,
+          "address": "0x87c22bd5be9f3",
+          "balance": 165162023.65824974,
+          "percentage": 16.516202365824974
+        },
+        {
+          "rank": 2,
+          "address": "0x633160c653738",
+          "balance": 131608643.97482565,
+          "percentage": 13.160864397482564
+        },
+        {
+          "rank": 3,
+          "address": "0x29c143fe5aa56",
+          "balance": 126560756.1209452,
+          "percentage": 12.65607561209452
+        },
+        {
+          "rank": 4,
+          "address": "0x9aa3137afa6fb",
+          "balance": 121867107.39754894,
+          "percentage": 12.186710739754893
+        },
+        {
+          "rank": 5,
+          "address": "0x8a045c7832b4b",
+          "balance": 120687823.06767942,
+          "percentage": 12.068782306767943
+        },
+        {
+          "rank": 6,
+          "address": "0x1dca735bf3292",
+          "balance": 110204585.01297575,
+          "percentage": 11.020458501297576
+        },
+        {
+          "rank": 7,
+          "address": "0xb45ec378527e7",
+          "balance": 102034219.38109961,
+          "percentage": 10.20342193810996
+        },
+        {
+          "rank": 8,
+          "address": "0xb48482a99ee2d",
+          "balance": 80666634.32592887,
+          "percentage": 8.066663432592886
+        },
+        {
+          "rank": 9,
+          "address": "0xa13dd8831472d",
+          "balance": 69335650.11551209,
+          "percentage": 6.933565011551209
+        },
+        {
+          "rank": 10,
+          "address": "0x8476b444d8a85",
+          "balance": 24191791.044792213,
+          "percentage": 2.4191791044792215
+        },
+        {
+          "rank": 11,
+          "address": "0x590c2ba3763ae",
+          "balance": -18.392242909303103,
+          "percentage": -0.0000018392242909303106
+        },
+        {
+          "rank": 12,
+          "address": "0x6ece1830881f6",
+          "balance": -23.031366853830733,
+          "percentage": -0.000002303136685383073
+        },
+        {
+          "rank": 13,
+          "address": "0xd66a399423385",
+          "balance": -74.76477327942997,
+          "percentage": -0.000007476477327942998
+        },
+        {
+          "rank": 14,
+          "address": "0x28f7818ea65ca",
+          "balance": -215.05429006845253,
+          "percentage": -0.00002150542900684525
+        },
+        {
+          "rank": 15,
+          "address": "0x0176f0c97827",
+          "balance": -215.9187862988039,
+          "percentage": -0.00002159187862988039
+        },
+        {
+          "rank": 16,
+          "address": "0x34df50cb25037",
+          "balance": -226.51162101247826,
+          "percentage": -0.000022651162101247827
+        },
+        {
+          "rank": 17,
+          "address": "0x779a3907a7715",
+          "balance": -232.23808006464824,
+          "percentage": -0.000023223808006464824
+        },
+        {
+          "rank": 18,
+          "address": "0x93e282505836d",
+          "balance": -495.9203427051032,
+          "percentage": -0.00004959203427051032
+        },
+        {
+          "rank": 19,
+          "address": "0xa43611be1726d",
+          "balance": -608.2920987150309,
+          "percentage": -0.00006082920987150309
+        },
+        {
+          "rank": 20,
+          "address": "0x893e8424a45fc",
+          "balance": -682.9891133526316,
+          "percentage": -0.00006829891133526317
+        },
+        {
+          "rank": 21,
+          "address": "0xa782038ee4f8d",
+          "balance": -831.0720898598306,
+          "percentage": -0.00008310720898598306
+        },
+        {
+          "rank": 22,
+          "address": "0xb582282be839d",
+          "balance": -839.1934806749119,
+          "percentage": -0.00008391934806749119
+        },
+        {
+          "rank": 23,
+          "address": "0x24d22f899771",
+          "balance": -936.3104549540653,
+          "percentage": -0.00009363104549540654
+        },
+        {
+          "rank": 24,
+          "address": "0x6819debfc1868",
+          "balance": -1058.0432464536011,
+          "percentage": -0.00010580432464536012
+        },
+        {
+          "rank": 25,
+          "address": "0x343df3590ad4",
+          "balance": -1120.3399303359108,
+          "percentage": -0.0001120339930335911
+        },
+        {
+          "rank": 26,
+          "address": "0x018bbbf7b2dc",
+          "balance": -1157.9511902043503,
+          "percentage": -0.00011579511902043503
+        },
+        {
+          "rank": 27,
+          "address": "0x3026557c271ab",
+          "balance": -1223.572521973394,
+          "percentage": -0.0001223572521973394
+        },
+        {
+          "rank": 28,
+          "address": "0xdcee26b3a950e",
+          "balance": -1282.0042582932379,
+          "percentage": -0.0001282004258293238
+        },
+        {
+          "rank": 29,
+          "address": "0x7acd1ba7f7117",
+          "balance": -1485.0894118681772,
+          "percentage": -0.0001485089411868177
+        },
+        {
+          "rank": 30,
+          "address": "0x473984976085",
+          "balance": -1666.7888549868985,
+          "percentage": -0.00016667888549868985
+        },
+        {
+          "rank": 31,
+          "address": "0x64470ca57a15b",
+          "balance": -1724.727718256441,
+          "percentage": -0.0001724727718256441
+        },
+        {
+          "rank": 32,
+          "address": "0x17a6f6c4a2ace",
+          "balance": -1844.93428578106,
+          "percentage": -0.00018449342857810598
+        },
+        {
+          "rank": 33,
+          "address": "0xe60b386da0743",
+          "balance": -1895.6593107895817,
+          "percentage": -0.00018956593107895817
+        },
+        {
+          "rank": 34,
+          "address": "0xf6fda4a53e6b3",
+          "balance": -1896.4053973383643,
+          "percentage": -0.00018964053973383643
+        },
+        {
+          "rank": 35,
+          "address": "0x0d6304309ef27",
+          "balance": -1944.0780166975999,
+          "percentage": -0.00019440780166976
+        },
+        {
+          "rank": 36,
+          "address": "0xe9d9fd4a8383c",
+          "balance": -2185.2171784588704,
+          "percentage": -0.00021852171784588704
+        },
+        {
+          "rank": 37,
+          "address": "0xe5ff208050ab2",
+          "balance": -2238.791885478949,
+          "percentage": -0.0002238791885478949
+        },
+        {
+          "rank": 38,
+          "address": "0xe86eeca76985",
+          "balance": -2275.8606354435283,
+          "percentage": -0.00022758606354435283
+        },
+        {
+          "rank": 39,
+          "address": "0x3c0cc3d1c8b06",
+          "balance": -2404.553288119428,
+          "percentage": -0.0002404553288119428
+        },
+        {
+          "rank": 40,
+          "address": "0xd573a1cddac2e",
+          "balance": -2477.9119309656753,
+          "percentage": -0.00024779119309656757
+        },
+        {
+          "rank": 41,
+          "address": "0x1aa0c13b5a086",
+          "balance": -2563.6055156546927,
+          "percentage": -0.00025636055156546926
+        },
+        {
+          "rank": 42,
+          "address": "0xac46e695c6416",
+          "balance": -2598.0082034191596,
+          "percentage": -0.00025980082034191595
+        },
+        {
+          "rank": 43,
+          "address": "0xbf6682a0ff051",
+          "balance": -2771.309086158505,
+          "percentage": -0.0002771309086158505
+        },
+        {
+          "rank": 44,
+          "address": "0x711fa1110146f",
+          "balance": -2844.782812479886,
+          "percentage": -0.0002844782812479886
+        },
+        {
+          "rank": 45,
+          "address": "0xd375072dddf7e",
+          "balance": -2854.3385011473015,
+          "percentage": -0.0002854338501147301
+        },
+        {
+          "rank": 46,
+          "address": "0x4c73cb526237a",
+          "balance": -3029.9884216246946,
+          "percentage": -0.00030299884216246944
+        },
+        {
+          "rank": 47,
+          "address": "0x1b86ce3f7107e",
+          "balance": -3043.6018747757857,
+          "percentage": -0.0003043601874775786
+        },
+        {
+          "rank": 48,
+          "address": "0xe7fe4119e52df",
+          "balance": -3062.7092121145215,
+          "percentage": -0.00030627092121145215
+        },
+        {
+          "rank": 49,
+          "address": "0x63341bab3d319",
+          "balance": -3191.342045723575,
+          "percentage": -0.00031913420457235753
+        },
+        {
+          "rank": 50,
+          "address": "0x4de528f2148d",
+          "balance": -3202.5018903337773,
+          "percentage": -0.0003202501890333777
+        }
+      ],
+      "count": 50
+    },
+    "top100": {
+      "balance": 1052000792.6279173,
+      "percentage": 105.20007926279173,
+      "holders": [
+        {
+          "rank": 1,
+          "address": "0x87c22bd5be9f3",
+          "balance": 165162023.65824974,
+          "percentage": 16.516202365824974
+        },
+        {
+          "rank": 2,
+          "address": "0x633160c653738",
+          "balance": 131608643.97482565,
+          "percentage": 13.160864397482564
+        },
+        {
+          "rank": 3,
+          "address": "0x29c143fe5aa56",
+          "balance": 126560756.1209452,
+          "percentage": 12.65607561209452
+        },
+        {
+          "rank": 4,
+          "address": "0x9aa3137afa6fb",
+          "balance": 121867107.39754894,
+          "percentage": 12.186710739754893
+        },
+        {
+          "rank": 5,
+          "address": "0x8a045c7832b4b",
+          "balance": 120687823.06767942,
+          "percentage": 12.068782306767943
+        },
+        {
+          "rank": 6,
+          "address": "0x1dca735bf3292",
+          "balance": 110204585.01297575,
+          "percentage": 11.020458501297576
+        },
+        {
+          "rank": 7,
+          "address": "0xb45ec378527e7",
+          "balance": 102034219.38109961,
+          "percentage": 10.20342193810996
+        },
+        {
+          "rank": 8,
+          "address": "0xb48482a99ee2d",
+          "balance": 80666634.32592887,
+          "percentage": 8.066663432592886
+        },
+        {
+          "rank": 9,
+          "address": "0xa13dd8831472d",
+          "balance": 69335650.11551209,
+          "percentage": 6.933565011551209
+        },
+        {
+          "rank": 10,
+          "address": "0x8476b444d8a85",
+          "balance": 24191791.044792213,
+          "percentage": 2.4191791044792215
+        },
+        {
+          "rank": 11,
+          "address": "0x590c2ba3763ae",
+          "balance": -18.392242909303103,
+          "percentage": -0.0000018392242909303106
+        },
+        {
+          "rank": 12,
+          "address": "0x6ece1830881f6",
+          "balance": -23.031366853830733,
+          "percentage": -0.000002303136685383073
+        },
+        {
+          "rank": 13,
+          "address": "0xd66a399423385",
+          "balance": -74.76477327942997,
+          "percentage": -0.000007476477327942998
+        },
+        {
+          "rank": 14,
+          "address": "0x28f7818ea65ca",
+          "balance": -215.05429006845253,
+          "percentage": -0.00002150542900684525
+        },
+        {
+          "rank": 15,
+          "address": "0x0176f0c97827",
+          "balance": -215.9187862988039,
+          "percentage": -0.00002159187862988039
+        },
+        {
+          "rank": 16,
+          "address": "0x34df50cb25037",
+          "balance": -226.51162101247826,
+          "percentage": -0.000022651162101247827
+        },
+        {
+          "rank": 17,
+          "address": "0x779a3907a7715",
+          "balance": -232.23808006464824,
+          "percentage": -0.000023223808006464824
+        },
+        {
+          "rank": 18,
+          "address": "0x93e282505836d",
+          "balance": -495.9203427051032,
+          "percentage": -0.00004959203427051032
+        },
+        {
+          "rank": 19,
+          "address": "0xa43611be1726d",
+          "balance": -608.2920987150309,
+          "percentage": -0.00006082920987150309
+        },
+        {
+          "rank": 20,
+          "address": "0x893e8424a45fc",
+          "balance": -682.9891133526316,
+          "percentage": -0.00006829891133526317
+        },
+        {
+          "rank": 21,
+          "address": "0xa782038ee4f8d",
+          "balance": -831.0720898598306,
+          "percentage": -0.00008310720898598306
+        },
+        {
+          "rank": 22,
+          "address": "0xb582282be839d",
+          "balance": -839.1934806749119,
+          "percentage": -0.00008391934806749119
+        },
+        {
+          "rank": 23,
+          "address": "0x24d22f899771",
+          "balance": -936.3104549540653,
+          "percentage": -0.00009363104549540654
+        },
+        {
+          "rank": 24,
+          "address": "0x6819debfc1868",
+          "balance": -1058.0432464536011,
+          "percentage": -0.00010580432464536012
+        },
+        {
+          "rank": 25,
+          "address": "0x343df3590ad4",
+          "balance": -1120.3399303359108,
+          "percentage": -0.0001120339930335911
+        },
+        {
+          "rank": 26,
+          "address": "0x018bbbf7b2dc",
+          "balance": -1157.9511902043503,
+          "percentage": -0.00011579511902043503
+        },
+        {
+          "rank": 27,
+          "address": "0x3026557c271ab",
+          "balance": -1223.572521973394,
+          "percentage": -0.0001223572521973394
+        },
+        {
+          "rank": 28,
+          "address": "0xdcee26b3a950e",
+          "balance": -1282.0042582932379,
+          "percentage": -0.0001282004258293238
+        },
+        {
+          "rank": 29,
+          "address": "0x7acd1ba7f7117",
+          "balance": -1485.0894118681772,
+          "percentage": -0.0001485089411868177
+        },
+        {
+          "rank": 30,
+          "address": "0x473984976085",
+          "balance": -1666.7888549868985,
+          "percentage": -0.00016667888549868985
+        },
+        {
+          "rank": 31,
+          "address": "0x64470ca57a15b",
+          "balance": -1724.727718256441,
+          "percentage": -0.0001724727718256441
+        },
+        {
+          "rank": 32,
+          "address": "0x17a6f6c4a2ace",
+          "balance": -1844.93428578106,
+          "percentage": -0.00018449342857810598
+        },
+        {
+          "rank": 33,
+          "address": "0xe60b386da0743",
+          "balance": -1895.6593107895817,
+          "percentage": -0.00018956593107895817
+        },
+        {
+          "rank": 34,
+          "address": "0xf6fda4a53e6b3",
+          "balance": -1896.4053973383643,
+          "percentage": -0.00018964053973383643
+        },
+        {
+          "rank": 35,
+          "address": "0x0d6304309ef27",
+          "balance": -1944.0780166975999,
+          "percentage": -0.00019440780166976
+        },
+        {
+          "rank": 36,
+          "address": "0xe9d9fd4a8383c",
+          "balance": -2185.2171784588704,
+          "percentage": -0.00021852171784588704
+        },
+        {
+          "rank": 37,
+          "address": "0xe5ff208050ab2",
+          "balance": -2238.791885478949,
+          "percentage": -0.0002238791885478949
+        },
+        {
+          "rank": 38,
+          "address": "0xe86eeca76985",
+          "balance": -2275.8606354435283,
+          "percentage": -0.00022758606354435283
+        },
+        {
+          "rank": 39,
+          "address": "0x3c0cc3d1c8b06",
+          "balance": -2404.553288119428,
+          "percentage": -0.0002404553288119428
+        },
+        {
+          "rank": 40,
+          "address": "0xd573a1cddac2e",
+          "balance": -2477.9119309656753,
+          "percentage": -0.00024779119309656757
+        },
+        {
+          "rank": 41,
+          "address": "0x1aa0c13b5a086",
+          "balance": -2563.6055156546927,
+          "percentage": -0.00025636055156546926
+        },
+        {
+          "rank": 42,
+          "address": "0xac46e695c6416",
+          "balance": -2598.0082034191596,
+          "percentage": -0.00025980082034191595
+        },
+        {
+          "rank": 43,
+          "address": "0xbf6682a0ff051",
+          "balance": -2771.309086158505,
+          "percentage": -0.0002771309086158505
+        },
+        {
+          "rank": 44,
+          "address": "0x711fa1110146f",
+          "balance": -2844.782812479886,
+          "percentage": -0.0002844782812479886
+        },
+        {
+          "rank": 45,
+          "address": "0xd375072dddf7e",
+          "balance": -2854.3385011473015,
+          "percentage": -0.0002854338501147301
+        },
+        {
+          "rank": 46,
+          "address": "0x4c73cb526237a",
+          "balance": -3029.9884216246946,
+          "percentage": -0.00030299884216246944
+        },
+        {
+          "rank": 47,
+          "address": "0x1b86ce3f7107e",
+          "balance": -3043.6018747757857,
+          "percentage": -0.0003043601874775786
+        },
+        {
+          "rank": 48,
+          "address": "0xe7fe4119e52df",
+          "balance": -3062.7092121145215,
+          "percentage": -0.00030627092121145215
+        },
+        {
+          "rank": 49,
+          "address": "0x63341bab3d319",
+          "balance": -3191.342045723575,
+          "percentage": -0.00031913420457235753
+        },
+        {
+          "rank": 50,
+          "address": "0x4de528f2148d",
+          "balance": -3202.5018903337773,
+          "percentage": -0.0003202501890333777
+        },
+        {
+          "rank": 51,
+          "address": "0xac1b9e8cd0c97",
+          "balance": -3222.28510609785,
+          "percentage": -0.000322228510609785
+        },
+        {
+          "rank": 52,
+          "address": "0xaff26eaf2b155",
+          "balance": -3296.7367611745417,
+          "percentage": -0.0003296736761174542
+        },
+        {
+          "rank": 53,
+          "address": "0x2f586e1c66b54",
+          "balance": -3468.6478779361046,
+          "percentage": -0.00034686478779361046
+        },
+        {
+          "rank": 54,
+          "address": "0xe674915e3c474",
+          "balance": -3508.8262096458866,
+          "percentage": -0.0003508826209645887
+        },
+        {
+          "rank": 55,
+          "address": "0xd74b6ae03c5a4",
+          "balance": -3562.503020433048,
+          "percentage": -0.00035625030204330477
+        },
+        {
+          "rank": 56,
+          "address": "0x248acc91fec3e",
+          "balance": -3728.058709832382,
+          "percentage": -0.0003728058709832382
+        },
+        {
+          "rank": 57,
+          "address": "0x065a5be7ff0e4",
+          "balance": -3746.18573876257,
+          "percentage": -0.000374618573876257
+        },
+        {
+          "rank": 58,
+          "address": "0x66a3a8ca0eb1a",
+          "balance": -3773.6995901086393,
+          "percentage": -0.0003773699590108639
+        },
+        {
+          "rank": 59,
+          "address": "0xc3f3835d2abc8",
+          "balance": -3774.1688958859386,
+          "percentage": -0.00037741688958859386
+        },
+        {
+          "rank": 60,
+          "address": "0xd743157e269cd",
+          "balance": -3803.172633567104,
+          "percentage": -0.00038031726335671043
+        },
+        {
+          "rank": 61,
+          "address": "0x8bf32fae797db",
+          "balance": -3964.5374497233897,
+          "percentage": -0.000396453744972339
+        },
+        {
+          "rank": 62,
+          "address": "0x6bf5436f6ea35",
+          "balance": -4038.8064714015077,
+          "percentage": -0.0004038806471401508
+        },
+        {
+          "rank": 63,
+          "address": "0x782bb9974861d",
+          "balance": -4081.5344508814305,
+          "percentage": -0.000408153445088143
+        },
+        {
+          "rank": 64,
+          "address": "0x84642f0f3685e",
+          "balance": -4200.251973699377,
+          "percentage": -0.0004200251973699377
+        },
+        {
+          "rank": 65,
+          "address": "0xfc55da2db1b7f",
+          "balance": -4361.82123134383,
+          "percentage": -0.000436182123134383
+        },
+        {
+          "rank": 66,
+          "address": "0x2870d4e413841",
+          "balance": -4369.773997093744,
+          "percentage": -0.00043697739970937434
+        },
+        {
+          "rank": 67,
+          "address": "0x1cc4ad94646be",
+          "balance": -4388.980679503928,
+          "percentage": -0.0004388980679503928
+        },
+        {
+          "rank": 68,
+          "address": "0x4a9ef4b9368c2",
+          "balance": -4411.1030643687145,
+          "percentage": -0.0004411103064368714
+        },
+        {
+          "rank": 69,
+          "address": "0x441306e05a527",
+          "balance": -4440.91877943284,
+          "percentage": -0.000444091877943284
+        },
+        {
+          "rank": 70,
+          "address": "0x235347dbbf9b8",
+          "balance": -4501.0289026974215,
+          "percentage": -0.0004501028902697421
+        },
+        {
+          "rank": 71,
+          "address": "0xefccc3c63b43a",
+          "balance": -4552.895424670506,
+          "percentage": -0.00045528954246705055
+        },
+        {
+          "rank": 72,
+          "address": "0x41147195ba1d5",
+          "balance": -4616.063632127597,
+          "percentage": -0.0004616063632127597
+        },
+        {
+          "rank": 73,
+          "address": "0xc4906147f1cb7",
+          "balance": -4623.982397750072,
+          "percentage": -0.0004623982397750072
+        },
+        {
+          "rank": 74,
+          "address": "0xa6907d907bea6",
+          "balance": -4882.500854474672,
+          "percentage": -0.0004882500854474672
+        },
+        {
+          "rank": 75,
+          "address": "0xb3e849d779117",
+          "balance": -4968.604401855388,
+          "percentage": -0.0004968604401855387
+        },
+        {
+          "rank": 76,
+          "address": "0x1fb7024049783",
+          "balance": -5025.411750960953,
+          "percentage": -0.0005025411750960954
+        },
+        {
+          "rank": 77,
+          "address": "0x7a1514fce511e",
+          "balance": -5070.397941757082,
+          "percentage": -0.0005070397941757082
+        },
+        {
+          "rank": 78,
+          "address": "0x1c4a847fa94bd",
+          "balance": -5234.434743868833,
+          "percentage": -0.0005234434743868832
+        },
+        {
+          "rank": 79,
+          "address": "0x1a60c93fc265a",
+          "balance": -5242.519306043925,
+          "percentage": -0.0005242519306043925
+        },
+        {
+          "rank": 80,
+          "address": "0x8281d477b9e05",
+          "balance": -5275.5907142410615,
+          "percentage": -0.0005275590714241061
+        },
+        {
+          "rank": 81,
+          "address": "0xa1f3ffa521265",
+          "balance": -5319.7546083541965,
+          "percentage": -0.0005319754608354197
+        },
+        {
+          "rank": 82,
+          "address": "0x8aaff388dc529",
+          "balance": -5399.1633312910435,
+          "percentage": -0.0005399163331291044
+        },
+        {
+          "rank": 83,
+          "address": "0x0482e8e628d83",
+          "balance": -5483.378519283156,
+          "percentage": -0.0005483378519283156
+        },
+        {
+          "rank": 84,
+          "address": "0xe066221d3ba3d",
+          "balance": -5565.9356787528195,
+          "percentage": -0.0005565935678752819
+        },
+        {
+          "rank": 85,
+          "address": "0x538f8c4d2a286",
+          "balance": -5888.520966001205,
+          "percentage": -0.0005888520966001205
+        },
+        {
+          "rank": 86,
+          "address": "0xb35461f72d2a1",
+          "balance": -5932.546351702585,
+          "percentage": -0.0005932546351702585
+        },
+        {
+          "rank": 87,
+          "address": "0x9e3dda77c3cdd",
+          "balance": -6088.626555931533,
+          "percentage": -0.0006088626555931533
+        },
+        {
+          "rank": 88,
+          "address": "0xb1da075811ebf",
+          "balance": -6259.8103172558185,
+          "percentage": -0.0006259810317255819
+        },
+        {
+          "rank": 89,
+          "address": "0xda3f631efda99",
+          "balance": -6285.567859618957,
+          "percentage": -0.0006285567859618958
+        },
+        {
+          "rank": 90,
+          "address": "0x8e4c1185847f2",
+          "balance": -6501.018292338592,
+          "percentage": -0.0006501018292338592
+        },
+        {
+          "rank": 91,
+          "address": "0x67ca881999b31",
+          "balance": -6542.238923721343,
+          "percentage": -0.0006542238923721343
+        },
+        {
+          "rank": 92,
+          "address": "0x9683d01e7c32",
+          "balance": -6543.540612882021,
+          "percentage": -0.0006543540612882021
+        },
+        {
+          "rank": 93,
+          "address": "0xac3c1575a01d3",
+          "balance": -6624.882254568517,
+          "percentage": -0.0006624882254568517
+        },
+        {
+          "rank": 94,
+          "address": "0x77008d10e1afb",
+          "balance": -6630.996593644342,
+          "percentage": -0.0006630996593644343
+        },
+        {
+          "rank": 95,
+          "address": "0x1c1a49fba7835",
+          "balance": -6684.874558342736,
+          "percentage": -0.0006684874558342736
+        },
+        {
+          "rank": 96,
+          "address": "0x293980f9b0143",
+          "balance": -6755.079935762912,
+          "percentage": -0.0006755079935762912
+        },
+        {
+          "rank": 97,
+          "address": "0xef48925428698",
+          "balance": -6795.908298264696,
+          "percentage": -0.0006795908298264696
+        },
+        {
+          "rank": 98,
+          "address": "0x8702410725f3d",
+          "balance": -6799.660112058089,
+          "percentage": -0.0006799660112058089
+        },
+        {
+          "rank": 99,
+          "address": "0xbe21e67206d01",
+          "balance": -6856.261357432188,
+          "percentage": -0.0006856261357432188
+        },
+        {
+          "rank": 100,
+          "address": "0x940167bf4c8b7",
+          "balance": -6904.458436401369,
+          "percentage": -0.000690445843640137
+        }
+      ],
+      "count": 100
+    }
+  },
+  "hhiAnalysis": {
+    "value": 1245.0579884306126,
+    "riskLevel": "低风险",
+    "riskDescription": "持有权分散，市场稳定性较好",
+    "maxPossible": 10000,
+    "normalized": 12.450579884306126
+  },
+  "whaleAnalysis": {
+    "threshold": 5,
+    "whales": [
+      {
+        "rank": 1,
+        "address": "0x87c22bd5be9f3",
+        "balance": 165162023.65824974,
+        "percentage": 16.516202365824974,
+        "riskLevel": "高风险",
+        "balanceFormatted": "165.16M"
+      },
+      {
+        "rank": 2,
+        "address": "0x633160c653738",
+        "balance": 131608643.97482565,
+        "percentage": 13.160864397482566,
+        "riskLevel": "高风险",
+        "balanceFormatted": "131.61M"
+      },
+      {
+        "rank": 3,
+        "address": "0x29c143fe5aa56",
+        "balance": 126560756.1209452,
+        "percentage": 12.656075612094519,
+        "riskLevel": "高风险",
+        "balanceFormatted": "126.56M"
+      },
+      {
+        "rank": 4,
+        "address": "0x9aa3137afa6fb",
+        "balance": 121867107.39754894,
+        "percentage": 12.186710739754893,
+        "riskLevel": "高风险",
+        "balanceFormatted": "121.87M"
+      },
+      {
+        "rank": 5,
+        "address": "0x8a045c7832b4b",
+        "balance": 120687823.06767942,
+        "percentage": 12.068782306767941,
+        "riskLevel": "高风险",
+        "balanceFormatted": "120.69M"
+      },
+      {
+        "rank": 6,
+        "address": "0x1dca735bf3292",
+        "balance": 110204585.01297575,
+        "percentage": 11.020458501297576,
+        "riskLevel": "高风险",
+        "balanceFormatted": "110.20M"
+      },
+      {
+        "rank": 7,
+        "address": "0xb45ec378527e7",
+        "balance": 102034219.38109961,
+        "percentage": 10.20342193810996,
+        "riskLevel": "高风险",
+        "balanceFormatted": "102.03M"
+      },
+      {
+        "rank": 8,
+        "address": "0xb48482a99ee2d",
+        "balance": 80666634.32592887,
+        "percentage": 8.066663432592886,
+        "riskLevel": "中等风险",
+        "balanceFormatted": "80.67M"
+      },
+      {
+        "rank": 9,
+        "address": "0xa13dd8831472d",
+        "balance": 69335650.11551209,
+        "percentage": 6.933565011551209,
+        "riskLevel": "中等风险",
+        "balanceFormatted": "69.34M"
+      }
+    ],
+    "totalWhales": 9,
+    "whalesSharePercentage": 102.81274430547653
+  },
+  "giniAnalysis": {
+    "value": 1.070714697422128,
+    "interpretation": "极度不平等",
+    "scale": "0-1 (0=完全平等, 1=完全不平等)"
+  },
+  "overallRisk": {
+    "riskScore": 200,
+    "level": "极高风险",
+    "recommendation": "强烈建议谨慎投资，存在严重的集中度风险",
+    "riskFactors": [
+      "7个地址持有超过10%",
+      "2个地址持有5-10%",
+      "基尼系数显示极度不平等"
+    ]
+  },
+  "trends": {
+    "note": "趋势分析需要历史数据支持",
+    "currentSnapshot": {
+      "timestamp": "2025-05-24T16:20:17.476Z",
+      "topHolderPercentage": 16.516202365824974,
+      "top10Percentage": 105.23192340995573
+    }
+  },
+  "testInfo": {
+    "testType": "concentration_analysis",
+    "timestamp": "2025-05-24T16:20:17.498Z",
+    "description": "集中度分析测试结果"
+  }
+}

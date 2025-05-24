@@ -1,0 +1,235 @@
+# Token集中度分析功能说明
+
+## 📊 功能概述
+
+本项目实现了完整的Token持有者集中度分析功能，包括多个关键指标的计算和风险评估。
+
+## 🎯 核心功能
+
+### 1. Top N持有者分析
+- **功能**: 计算前N名持有者的合计份额
+- **支持的N值**: 1, 5, 10, 20, 50, 100
+- **输出**: 每个级别的持有数量、百分比、持有者列表
+
+### 2. HHI (Herfindahl-Hirschman Index) 计算
+- **公式**: `HHI = Σ(Pi²)` 其中Pi是每个持有者的市场份额百分比
+- **风险等级**:
+  - `HHI < 1,500`: 低风险 (持有权分散，市场稳定性较好)
+  - `1,500 ≤ HHI < 2,500`: 中等风险 (存在一定集中度，需要关注大户动向)
+  - `HHI ≥ 2,500`: 高风险 (持有权高度集中，存在操控风险)
+  - `HHI = 10,000`: 完全垄断 (一个地址持有100%)
+
+### 3. 大户地址标记
+- **阈值**: 默认5%，可自定义
+- **风险分级**:
+  - `≥20%`: 极高风险
+  - `≥10%`: 高风险  
+  - `≥5%`: 中等风险
+- **输出**: 大户列表、风险等级、格式化余额
+
+### 4. 基尼系数计算
+- **用途**: 衡量持有分布的不平等程度
+- **范围**: 0-1 (0=完全平等, 1=完全不平等)
+- **解释**:
+  - `< 0.3`: 相对平等
+  - `0.3-0.5`: 中等不平等
+  - `0.5-0.7`: 高度不平等
+  - `≥ 0.7`: 极度不平等
+
+### 5. 综合风险评估
+- **评分系统**: 0-100分
+- **考虑因素**:
+  - HHI指数权重
+  - 大户数量和持有比例
+  - 基尼系数
+- **风险等级**:
+  - `≥80分`: 极高风险
+  - `60-79分`: 高风险
+  - `40-59分`: 中等风险
+  - `20-39分`: 低风险
+  - `<20分`: 很低风险
+
+## 🔧 使用方法
+
+### 基础使用
+
+```javascript
+import { ConcentrationAnalysis } from './src/concentrationAnalysis.js';
+
+// 准备持有者数据
+const validHolders = [
+    { rank: 1, address: '0x...', balance: 1000000, percentage: 10.0 },
+    { rank: 2, address: '0x...', balance: 500000, percentage: 5.0 },
+    // ... 更多持有者
+];
+
+const totalSupply = 10000000; // 总供应量
+
+// 创建分析器
+const analyzer = new ConcentrationAnalysis(validHolders, totalSupply);
+
+// 执行完整分析
+const analysis = analyzer.performFullAnalysis();
+
+// 生成报告
+const report = analyzer.generateReport();
+console.log(report);
+```
+
+### 与主分析器集成
+
+```javascript
+import { BedrockTokenAnalysis } from './src/tokenAnalysisFixed.js';
+
+const analyzer = new BedrockTokenAnalysis();
+
+// 加载数据并处理
+await analyzer.processHoldersData();
+
+// 获取集中度分析
+const concentrationAnalysis = analyzer.getConcentrationAnalysis();
+
+// 生成集中度报告
+const concentrationReport = analyzer.generateConcentrationReport();
+```
+
+## 📈 分析结果结构
+
+### 完整分析结果
+
+```javascript
+{
+    summary: {
+        totalHolders: 1000,
+        totalCirculatingSupply: 1000000000,
+        analysisTimestamp: "2024-01-01T00:00:00.000Z"
+    },
+    topHoldersAnalysis: {
+        top1: { balance: 100000000, percentage: 10.0, holders: [...], count: 1 },
+        top5: { balance: 300000000, percentage: 30.0, holders: [...], count: 5 },
+        top10: { balance: 450000000, percentage: 45.0, holders: [...], count: 10 },
+        // ... 其他级别
+    },
+    hhiAnalysis: {
+        value: 1234.56,
+        riskLevel: "中等风险",
+        riskDescription: "存在一定集中度，需要关注大户动向",
+        maxPossible: 10000,
+        normalized: 12.35
+    },
+    whaleAnalysis: {
+        threshold: 5.0,
+        whales: [
+            {
+                rank: 1,
+                address: "0x...",
+                balance: 100000000,
+                percentage: 10.0,
+                riskLevel: "高风险",
+                balanceFormatted: "100.00M"
+            }
+            // ... 其他大户
+        ],
+        totalWhales: 3,
+        whalesSharePercentage: 25.5
+    },
+    giniAnalysis: {
+        value: 0.6789,
+        interpretation: "高度不平等",
+        scale: "0-1 (0=完全平等, 1=完全不平等)"
+    },
+    overallRisk: {
+        riskScore: 65,
+        level: "高风险",
+        recommendation: "建议密切关注大户动向，存在显著风险",
+        riskFactors: [
+            "HHI指数显示中等集中度",
+            "2个地址持有超过10%",
+            "基尼系数显示高度不平等"
+        ]
+    },
+    trends: {
+        note: "趋势分析需要历史数据支持",
+        currentSnapshot: {
+            timestamp: "2024-01-01T00:00:00.000Z",
+            topHolderPercentage: 10.0,
+            top10Percentage: 45.0
+        }
+    }
+}
+```
+
+## 🧪 测试和演示
+
+运行测试脚本查看完整功能演示：
+
+```bash
+node test_concentration_analysis.js
+```
+
+测试脚本包含：
+- HHI计算原理说明
+- 模拟数据生成
+- 完整分析流程演示
+- 不同集中度场景对比
+- 详细结果展示
+
+## 📊 HHI集中度风险详解
+
+### 什么是HHI？
+HHI（赫芬达尔-赫希曼指数）是衡量市场集中度的经济学指标，在Token分析中用来评估持有权的集中程度。
+
+### 计算公式
+```
+HHI = Σ(Pi²)
+```
+其中 Pi 是第i个持有者的市场份额（以百分比表示）
+
+### 实际意义
+- **高HHI值**: 少数大户控制大部分代币，存在抛售风险、价格操控风险
+- **低HHI值**: 持有分散，市场更加稳定，去中心化程度更高
+
+### 计算示例
+
+**高集中度场景**:
+- 持有者A: 50%
+- 持有者B: 30% 
+- 持有者C: 20%
+- HHI = 50² + 30² + 20² = 2500 + 900 + 400 = 3800 (高风险)
+
+**低集中度场景**:
+- 100个持有者，每人持有1%
+- HHI = 100 × 1² = 100 (极低风险)
+
+## 🎯 应用场景
+
+1. **投资决策**: 评估Token的集中度风险，辅助投资决策
+2. **项目审计**: 分析项目方代币分布的合理性
+3. **风险监控**: 持续监控大户动向和集中度变化
+4. **合规检查**: 确保代币分布符合去中心化要求
+5. **市场分析**: 理解代币持有结构对价格的潜在影响
+
+## 📝 输出文件
+
+分析完成后会生成以下文件：
+- `bedrock-concentration-analysis-{timestamp}.json`: 完整分析数据
+- `bedrock-concentration-report-{timestamp}.txt`: 格式化分析报告
+- `bedrock-enhanced-analysis-{timestamp}.json`: 包含集中度的完整分析
+- `bedrock-enhanced-report-{timestamp}.txt`: 包含集中度的完整报告
+
+## ⚠️ 注意事项
+
+1. **数据质量**: 确保输入的持有者数据准确且已排序
+2. **供应量**: 使用调整后的流通供应量（排除销毁和锁定代币）
+3. **阈值设置**: 可根据具体项目调整大户识别阈值
+4. **历史对比**: 建议结合历史数据进行趋势分析
+5. **多维评估**: 集中度只是风险评估的一个维度，需结合其他因素
+
+## 🔄 扩展功能
+
+未来可扩展的功能：
+- 历史集中度趋势分析
+- 集中度变化预警
+- 与价格数据的关联分析
+- 不同时间窗口的集中度对比
+- 自定义风险评分权重 

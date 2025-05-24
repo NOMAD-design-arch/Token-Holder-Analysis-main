@@ -1,6 +1,6 @@
-import { BedrockTokenAnalysis } from './tokenAnalysis.js';
-import { AddressFilters } from './addressFilters.js';
-import { DuneAPIHelper } from './duneAPIHelper.js';
+import { BedrockTokenAnalysis } from '../src/tokenAnalysis.js';
+import { AddressFilters } from '../src/utils/addressFilters.js';
+import { DuneAPIHelper } from '../src/utils/duneAPIHelper.js';
 
 /**
  * 测试代币分析系统（增强版）
@@ -165,7 +165,7 @@ async function testBedrockAnalysis() {
         
         // 测试保存功能（可选）
         console.log("\n💾 测试保存功能...");
-        const testOutputDir = 'test-results-enhanced';
+        const testOutputDir = './test/test_results';
         const savedFiles = analyzer.saveResults(testOutputDir);
         console.log("   增强版保存完成！");
         
