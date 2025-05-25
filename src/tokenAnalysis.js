@@ -254,7 +254,7 @@ class BedrockTokenAnalysis {
         
         // 批量查询Dune API（延迟1000ms避免速率限制）
         /** @type {Map<string, Array<Object>>} API查询结果映射 */
-        const batchResults = await this.duneHelper.batchQueryAddressLabels(unknownAddresses, 1000);
+        const batchResults = await this.duneHelper.batchQueryAddressLabels(unknownAddresses, 1 * 1000);
         
         /** @type {Map<Address, LocalLabelInfo|null>} 分析结果映射 */
         const analysisResults = new Map();

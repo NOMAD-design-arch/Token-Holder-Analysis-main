@@ -516,8 +516,8 @@ export class RiskAddressClassifier {
             results.push(...batchResults);
             
             if (i + batchSize < addresses.length) {
-                console.log(`⏱️  等待2秒后处理下一批次...`);
-                await new Promise(resolve => setTimeout(resolve, 2000));
+                console.log(`⏱️  等待5秒后处理下一批次...`);
+                await new Promise(resolve => setTimeout(resolve, 5000));
             }
         }
         

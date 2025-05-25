@@ -1,4 +1,42 @@
 {
+  "name": "token-holder-analysis",
+  "version": "1.0.0",
+  "description": "专业的区块链代币持有者分析工具套件，支持持有者分布分析、集中度风险评估、地址风险分类等多维度分析",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "holdersAnalysis": "node run/run_enhanced_analysis.js",
+    "concentrationAnalysis": "node run/run_concentrationAnalysis.js",
+    "riskAnalysis": "node run/run_risk_classification.js",
+    "test": "node test/"
+  },
+  "keywords": [
+    "blockchain",
+    "token-analysis",
+    "holder-analysis",
+    "cryptocurrency",
+    "defi",
+    "risk-assessment",
+    "concentration-analysis",
+    "address-classification",
+    "dune-analytics",
+    "bsc",
+    "ethereum",
+    "web3"
+  ],
+  "author": "Token Holder Analysis Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/token-holder-analysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/token-holder-analysis/issues"
+  },
+  "homepage": "https://github.com/your-username/token-holder-analysis#readme",
   "dependencies": {
     "@covalenthq/client-sdk": "^2.2.6",
     "@duneanalytics/client-sdk": "^0.2.5",
@@ -6,21 +44,8 @@
     "axios": "^1.6.0",
     "dotenv": "^16.5.0"
   },
-  "scripts": {
-    "start": "node src/demo.js",
-    "risk-classify": "node run_risk_classification.js",
-    "risk-classify-demo": "node risk_Address_Classification.js"
-  },
-  "type": "module",
-  "name": "token-holder-analysis",
-  "version": "1.0.0",
-  "main": "index.js",
   "devDependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }

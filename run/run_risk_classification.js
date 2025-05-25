@@ -136,7 +136,7 @@ export class RiskClassificationExample {
             
             // 3. 持有者分析
             const holdersReport = await this.holdersAnalysisExample({
-                minHoldingPercentage: 0.1,
+                minHoldingPercentage: 0.0001,
                 topN: 100
             });
             

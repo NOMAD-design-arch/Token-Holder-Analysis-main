@@ -1,0 +1,111 @@
+{
+  "total": 3,
+  "classifications": {
+    "CEX": 0,
+    "Market Makers": 0,
+    "Team/Vesting": 0,
+    "Unknown": 3
+  },
+  "highConfidence": 0,
+  "mediumConfidence": 0,
+  "lowConfidence": 3,
+  "details": [
+    {
+      "address": "0x3cc936b795a188f0e246cbb2d74c5bd190aecf18",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "存款导向: 99.5%",
+            "多样化交易对手: 129个",
+            "多代币支持: 138种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.994535519125683,
+            "uniqueCounterparties": 129,
+            "uniqueTokens": 138,
+            "totalTransactions": 183
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.2,
+          "factors": [
+            "多代币交易: 138种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.005494505494505495,
+            "avgInterval": 541802.7417582418,
+            "uniqueTokens": 138,
+            "avgDailyTxs": 0.16024518388791595,
+            "totalTransactions": 183
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "reason": "未匹配任何已知模式"
+      },
+      "timestamp": "2025-05-25T09:45:36.298Z"
+    },
+    {
+      "address": "0x28f1c61b4e3a1fe79de1af2c8c0b19348bbfa25e",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x28f1c61b4e3a1fe79de1af2c8c0b19348bbfa25e",
+            "blockchain": "bnb",
+            "owner_key": "binance",
+            "custody_owner": "Binance",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "reason": "无交易数据且无已知标签"
+      },
+      "timestamp": "2025-05-25T09:45:36.299Z"
+    },
+    {
+      "address": "0x853ee4b2a13f8a742d64c8f088be7ba2131f670d",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x853ee4b2a13f8a742d64c8f088be7ba2131f670d",
+            "blockchain": "bnb",
+            "owner_key": "binance",
+            "custody_owner": "Binance",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足且非已知交易所地址"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "reason": "未匹配任何已知模式"
+      },
+      "timestamp": "2025-05-25T09:45:36.299Z"
+    }
+  ]
+}

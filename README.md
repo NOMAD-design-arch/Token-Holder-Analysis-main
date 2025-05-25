@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![License](https://img.shields.io/badge/license-ISC-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-green.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-ES6%2B-yellow.svg)
 
@@ -42,7 +42,7 @@ Token Holder Analysis 是一个专业的区块链代币分析平台，专注于�
 - **高风险**: HHI ≥ 2500，持有权高度集中
 
 ### 🛡️ 3. 风险地址分类 (Risk Classification)
-- **智能地址分类**: 基于交易模式的AI驱动分类
+- **智能地址分类**: 基于标签和交易模式的分类
 - **四大类别识别**:
   - **Team/Vesting**: 团队/释放地址
   - **Market Makers**: 做市商地址
@@ -249,7 +249,7 @@ const thresholds = {
 
 ## 📄 许可证
 
-本项目采用 ISC 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 📞 联系方式
 
