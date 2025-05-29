@@ -1,0 +1,5744 @@
+{
+  "total": 100,
+  "classifications": {
+    "CEX": 9,
+    "Market Makers": 28,
+    "Team/Vesting": 0,
+    "Unknown": 63
+  },
+  "highConfidence": 21,
+  "mediumConfidence": 16,
+  "lowConfidence": 63,
+  "details": [
+    {
+      "address": "0x3af23717c7637595b7c95d9e03b2a08d0470290d",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x3af23717c7637595b7c95d9e03b2a08d0470290d",
+            "blockchain": "bnb",
+            "owner_key": "huobi",
+            "custody_owner": "Huobi",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:23.975Z",
+      "holderInfo": {
+        "address": "0x3af23717c7637595b7c95d9e03b2a08d0470290d",
+        "balance": "200000000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "20.0000"
+      }
+    },
+    {
+      "address": "0xd7cda9ea2d23e8f473bb49225234449282ad6a62",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:23.977Z",
+      "holderInfo": {
+        "address": "0xd7cda9ea2d23e8f473bb49225234449282ad6a62",
+        "balance": "200000000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "20.0000"
+      }
+    },
+    {
+      "address": "0xc22a28447453a2f1c2a6867a2d61153498ec13f2",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:23.979Z",
+      "holderInfo": {
+        "address": "0xc22a28447453a2f1c2a6867a2d61153498ec13f2",
+        "balance": "145000000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "14.5000"
+      }
+    },
+    {
+      "address": "0x3f36d044c50cc701e1afa9e1425c632e59afba4c",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:23.981Z",
+      "holderInfo": {
+        "address": "0x3f36d044c50cc701e1afa9e1425c632e59afba4c",
+        "balance": "125000000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "12.5000"
+      }
+    },
+    {
+      "address": "0xccdbff508f5d8544af01103a719325890c24b508",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:23.983Z",
+      "holderInfo": {
+        "address": "0xccdbff508f5d8544af01103a719325890c24b508",
+        "balance": "100000000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "10.0000"
+      }
+    },
+    {
+      "address": "0x882606470f29aba05856abf1b077cc55ad2a9ad9",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 6087112.277595357,
+            "avgInterval": 44912.74074074074,
+            "weeklyPattern": 0.037037037037037035,
+            "monthlyPattern": 0,
+            "totalOutgoing": 28
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:31.250Z",
+      "holderInfo": {
+        "address": "0x882606470f29aba05856abf1b077cc55ad2a9ad9",
+        "balance": "40460859227330000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "4.0461"
+      }
+    },
+    {
+      "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+            "blockchain": "bnb",
+            "owner_key": "huobi",
+            "custody_owner": "Huobi",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 939个",
+            "多代币支持: 23种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.484,
+            "uniqueCounterparties": 939,
+            "uniqueTokens": 23,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 93.8%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 23种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.937984496124031,
+            "avgInterval": 1.7967967967967968,
+            "uniqueTokens": 23,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 225087831.4822974,
+            "avgInterval": 3.4854368932038833,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 516
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:31.251Z",
+      "holderInfo": {
+        "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+        "balance": "28105116576104959315375583",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "2.8105"
+      }
+    },
+    {
+      "address": "0xce94aba9086f408b3f2af4e8b5ac1abc42f4da9a",
+      "classification": "Market Makers",
+      "confidence": 0.6400000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "depositRatio": 0.5,
+            "uniqueCounterparties": 37,
+            "uniqueTokens": 2,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.8,
+          "factors": [
+            "双向交易比例: 100.0%",
+            "高频交易: 平均间隔0分钟",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 1,
+            "avgInterval": 11.345345345345345,
+            "uniqueTokens": 2,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 3056.870239914854,
+            "avgInterval": 22.713426853707414,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 500
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:31.252Z",
+      "holderInfo": {
+        "address": "0xce94aba9086f408b3f2af4e8b5ac1abc42f4da9a",
+        "balance": "26075152842842460643988528",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "2.6075"
+      }
+    },
+    {
+      "address": "0xbbd5c1a40fafaea7a00d23d2f8be68aa7a767989",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 923076.9230769231,
+            "avgInterval": 498300.1666666667,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 13
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:31.253Z",
+      "holderInfo": {
+        "address": "0xbbd5c1a40fafaea7a00d23d2f8be68aa7a767989",
+        "balance": "23595211866886200000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "2.3595"
+      }
+    },
+    {
+      "address": "0xba62c98d420caef91e4d731edea7265fdd60d664",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xba62c98d420caef91e4d731edea7265fdd60d664",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:31.254Z",
+      "holderInfo": {
+        "address": "0xba62c98d420caef91e4d731edea7265fdd60d664",
+        "balance": "20000000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "2.0000"
+      }
+    },
+    {
+      "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 834个",
+            "多代币支持: 69种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.442,
+            "uniqueCounterparties": 834,
+            "uniqueTokens": 69,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 79.2%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 69种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.7921146953405018,
+            "avgInterval": 2.945945945945946,
+            "uniqueTokens": 69,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 13536000085.410141,
+            "avgInterval": 5.283662477558348,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 558
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:41.075Z",
+      "holderInfo": {
+        "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+        "balance": "14749500903175519239636860",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "1.4750"
+      }
+    },
+    {
+      "address": "0x8a2725a6f04816a5274ddd9feadd3bd0c253c1a6",
+      "classification": "Market Makers",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多样化交易对手: 923个"
+          ],
+          "stats": {
+            "depositRatio": 0.006,
+            "uniqueCounterparties": 923,
+            "uniqueTokens": 7,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.7,
+          "factors": [
+            "高频交易: 平均间隔57分钟",
+            "多代币交易: 7种代币",
+            "日均交易量: 24.4笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.006036217303822937,
+            "avgInterval": 3437.6236236236236,
+            "uniqueTokens": 7,
+            "avgDailyTxs": 24.390243902439025,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 21612.47977199443,
+            "avgInterval": 3458.3947633434036,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 994
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:41.079Z",
+      "holderInfo": {
+        "address": "0x8a2725a6f04816a5274ddd9feadd3bd0c253c1a6",
+        "balance": "6601689255756583400000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.6602"
+      }
+    },
+    {
+      "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 0.7,
+          "factors": [
+            "存款导向: 64.6%",
+            "多样化交易对手: 863个",
+            "多代币支持: 23种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.646,
+            "uniqueCounterparties": 863,
+            "uniqueTokens": 23,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 54.8%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 23种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.5479876160990712,
+            "avgInterval": 2.942942942942943,
+            "uniqueTokens": 23,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 69072.47888920632,
+            "avgInterval": 8.328611898016996,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 354
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:41.083Z",
+      "holderInfo": {
+        "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
+        "balance": "5481617197444068799000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.5482"
+      }
+    },
+    {
+      "address": "0x6ca6184e977f5d7cd6ed961f2e15ba94d980ca5d",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 13种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.509090909090909,
+            "uniqueCounterparties": 24,
+            "uniqueTokens": 13,
+            "totalTransactions": 55
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 1154155.292636688,
+            "avgInterval": 207107,
+            "weeklyPattern": 0.038461538461538464,
+            "monthlyPattern": 0,
+            "totalOutgoing": 27
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:41.086Z",
+      "holderInfo": {
+        "address": "0x6ca6184e977f5d7cd6ed961f2e15ba94d980ca5d",
+        "balance": "4130825561471890000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.4131"
+      }
+    },
+    {
+      "address": "0x7fcbd9d429932a11884cb5ce9c61055b369f56f7",
+      "classification": "Market Makers",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x7fcbd9d429932a11884cb5ce9c61055b369f56f7",
+            "blockchain": "bnb",
+            "owner_key": "okex",
+            "custody_owner": "OKEx",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 950个",
+            "多代币支持: 16种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.016,
+            "uniqueCounterparties": 950,
+            "uniqueTokens": 16,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.7,
+          "factors": [
+            "高频交易: 平均间隔49分钟",
+            "多代币交易: 16种代币",
+            "日均交易量: 28.6笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.016260162601626018,
+            "avgInterval": 2950.3683683683685,
+            "uniqueTokens": 16,
+            "avgDailyTxs": 28.571428571428573,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 146.10053861788595,
+            "avgInterval": 732.1810783316379,
+            "weeklyPattern": 0.001017293997965412,
+            "monthlyPattern": 0,
+            "totalOutgoing": 984
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:41.087Z",
+      "holderInfo": {
+        "address": "0x7fcbd9d429932a11884cb5ce9c61055b369f56f7",
+        "balance": "3438380793333340000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.3438"
+      }
+    },
+    {
+      "address": "0x73d8bd54f7cf5fab43fe4ef40a62d390644946db",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 35种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.507,
+            "uniqueCounterparties": 3,
+            "uniqueTokens": 35,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 97.2%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 35种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9723865877712031,
+            "avgInterval": 0.0980980980980981,
+            "uniqueTokens": 35,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 1135661934.9709818,
+            "avgInterval": 0.1991869918699187,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 493
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:51.850Z",
+      "holderInfo": {
+        "address": "0x73d8bd54f7cf5fab43fe4ef40a62d390644946db",
+        "balance": "2932850305027457792360511",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.2933"
+      }
+    },
+    {
+      "address": "0x53f78a071d04224b8e254e243fffc6d9f2f3fa23",
+      "classification": "CEX",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 1,
+          "factors": [
+            "存款导向: 79.0%",
+            "多样化交易对手: 675个",
+            "多代币支持: 63种代币",
+            "大量集中存款模式"
+          ],
+          "stats": {
+            "depositRatio": 0.79,
+            "uniqueCounterparties": 675,
+            "uniqueTokens": 63,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.7,
+          "factors": [
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 63种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.26582278481012656,
+            "avgInterval": 13.192192192192191,
+            "uniqueTokens": 63,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 48600322207.86317,
+            "avgInterval": 62.822966507177036,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 210
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:51.851Z",
+      "holderInfo": {
+        "address": "0x53f78a071d04224b8e254e243fffc6d9f2f3fa23",
+        "balance": "2452302232396729088062359",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.2452"
+      }
+    },
+    {
+      "address": "0x951b9db7c1d3669bf76d3c8db8cab650b7456d1e",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x951b9db7c1d3669bf76d3c8db8cab650b7456d1e",
+            "blockchain": "bnb",
+            "owner_key": "binance",
+            "custody_owner": "Binance",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "depositRatio": 0.49230769230769234,
+            "uniqueCounterparties": 20,
+            "uniqueTokens": 9,
+            "totalTransactions": 65
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 2068007.2308272729,
+            "avgInterval": 137905.3125,
+            "weeklyPattern": 0.03125,
+            "monthlyPattern": 0,
+            "totalOutgoing": 33
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:51.851Z",
+      "holderInfo": {
+        "address": "0x951b9db7c1d3669bf76d3c8db8cab650b7456d1e",
+        "balance": "2262907296218480863703701",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.2263"
+      }
+    },
+    {
+      "address": "0x2e02df052e7c4a12e1b334dc3d182c39bb754dc3",
+      "classification": "Market Makers",
+      "confidence": 0.6400000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多样化交易对手: 51个"
+          ],
+          "stats": {
+            "depositRatio": 0.547,
+            "uniqueCounterparties": 51,
+            "uniqueTokens": 3,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.8,
+          "factors": [
+            "双向交易比例: 82.8%",
+            "高频交易: 平均间隔57分钟",
+            "日均交易量: 25.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8281535648994516,
+            "avgInterval": 3401.4264264264266,
+            "uniqueTokens": 3,
+            "avgDailyTxs": 25,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 45733.38799230962,
+            "avgInterval": 7517.754424778761,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 453
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:51.852Z",
+      "holderInfo": {
+        "address": "0x2e02df052e7c4a12e1b334dc3d182c39bb754dc3",
+        "balance": "2214005287351205456683831",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.2214"
+      }
+    },
+    {
+      "address": "0xa8590cbabf52e2ae60d33d598a58ea46298e3f56",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 19种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5407608695652174,
+            "uniqueCounterparties": 24,
+            "uniqueTokens": 19,
+            "totalTransactions": 368
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 84.9%",
+            "多代币交易: 19种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8492462311557789,
+            "avgInterval": 10998.307901907358,
+            "uniqueTokens": 19,
+            "avgDailyTxs": 7.666666666666667,
+            "totalTransactions": 368
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 1780.862796105884,
+            "avgInterval": 3874.3928571428573,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 169
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:51.852Z",
+      "holderInfo": {
+        "address": "0xa8590cbabf52e2ae60d33d598a58ea46298e3f56",
+        "balance": "1747068161389294009497828",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1747"
+      }
+    },
+    {
+      "address": "0xf2d8eba37375329553bda63f084ea826847d7733",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xf2d8eba37375329553bda63f084ea826847d7733",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:04.024Z",
+      "holderInfo": {
+        "address": "0xf2d8eba37375329553bda63f084ea826847d7733",
+        "balance": "1550622000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1551"
+      }
+    },
+    {
+      "address": "0xce72570868442ef4797d2e4cdbf897ad1187c2c8",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:04.031Z",
+      "holderInfo": {
+        "address": "0xce72570868442ef4797d2e4cdbf897ad1187c2c8",
+        "balance": "1547515000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1548"
+      }
+    },
+    {
+      "address": "0x93d9e80a903d2b752ce2cc2e92b54676a93b8f3b",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x93d9e80a903d2b752ce2cc2e92b54676a93b8f3b",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:04.035Z",
+      "holderInfo": {
+        "address": "0x93d9e80a903d2b752ce2cc2e92b54676a93b8f3b",
+        "balance": "1546839000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1547"
+      }
+    },
+    {
+      "address": "0xf77e9237f5e395956764963d8b08bbdd64beb1c8",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:04.037Z",
+      "holderInfo": {
+        "address": "0xf77e9237f5e395956764963d8b08bbdd64beb1c8",
+        "balance": "1546445000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x551996a92a0b9be5f4cae5551752e5ead9837e70",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:04.038Z",
+      "holderInfo": {
+        "address": "0x551996a92a0b9be5f4cae5551752e5ead9837e70",
+        "balance": "1546346000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x3eedefa581d20ba4c1976c08893052df3f39ec49",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x3eedefa581d20ba4c1976c08893052df3f39ec49",
+            "blockchain": "bnb",
+            "owner_key": "bybit",
+            "custody_owner": "Bybit",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:10.650Z",
+      "holderInfo": {
+        "address": "0x3eedefa581d20ba4c1976c08893052df3f39ec49",
+        "balance": "1546252000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x89f3fac620f5785dbe037368853c7caa4b090c51",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:10.651Z",
+      "holderInfo": {
+        "address": "0x89f3fac620f5785dbe037368853c7caa4b090c51",
+        "balance": "1546119000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x9b1427b9fbcb7718aa30924231a2d4f6db9c3b7e",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:10.652Z",
+      "holderInfo": {
+        "address": "0x9b1427b9fbcb7718aa30924231a2d4f6db9c3b7e",
+        "balance": "1546087000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0xedc252128d52b0770614f6d6fb63d9335df5ed3b",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:10.653Z",
+      "holderInfo": {
+        "address": "0xedc252128d52b0770614f6d6fb63d9335df5ed3b",
+        "balance": "1546024000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x95f61ce8cec309d3ad72cf276ed5f594c3a4b8d5",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:10.654Z",
+      "holderInfo": {
+        "address": "0x95f61ce8cec309d3ad72cf276ed5f594c3a4b8d5",
+        "balance": "1546004000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0xab607788edf55dfd3c8ccfbc5795457a54d19229",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:17.420Z",
+      "holderInfo": {
+        "address": "0xab607788edf55dfd3c8ccfbc5795457a54d19229",
+        "balance": "1545974000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x80eb07a6156a7a35d1a76ea19c06538b358e5f24",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:17.422Z",
+      "holderInfo": {
+        "address": "0x80eb07a6156a7a35d1a76ea19c06538b358e5f24",
+        "balance": "1545908000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x08cf22667d34073563369e087b5704bcc67ebfb4",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x08cf22667d34073563369e087b5704bcc67ebfb4",
+            "blockchain": "bnb",
+            "owner_key": "bybit",
+            "custody_owner": "Bybit",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:17.422Z",
+      "holderInfo": {
+        "address": "0x08cf22667d34073563369e087b5704bcc67ebfb4",
+        "balance": "1545800000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x70d509cb7d35fa5d614087ffdb9ab9a004c94464",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:17.423Z",
+      "holderInfo": {
+        "address": "0x70d509cb7d35fa5d614087ffdb9ab9a004c94464",
+        "balance": "1545700000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0xa6944349eb261d488fe0e968018b3bc5318430d9",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:17.424Z",
+      "holderInfo": {
+        "address": "0xa6944349eb261d488fe0e968018b3bc5318430d9",
+        "balance": "1545644000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x927f77ac929be7e3445a6d28c039fc32d4c83613",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:23.946Z",
+      "holderInfo": {
+        "address": "0x927f77ac929be7e3445a6d28c039fc32d4c83613",
+        "balance": "1545635000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x52cc60c1a4ea15ee13e48267938114f5dbdf2b13",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:23.948Z",
+      "holderInfo": {
+        "address": "0x52cc60c1a4ea15ee13e48267938114f5dbdf2b13",
+        "balance": "1545554000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1546"
+      }
+    },
+    {
+      "address": "0x7451dcda5b1ddceab7a53f749e14867189ccef8e",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:23.950Z",
+      "holderInfo": {
+        "address": "0x7451dcda5b1ddceab7a53f749e14867189ccef8e",
+        "balance": "1545252000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1545"
+      }
+    },
+    {
+      "address": "0xfeee1f0d4d7c0fbe0e3836b51e37d5ba2577c58b",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:23.953Z",
+      "holderInfo": {
+        "address": "0xfeee1f0d4d7c0fbe0e3836b51e37d5ba2577c58b",
+        "balance": "1544352000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1544"
+      }
+    },
+    {
+      "address": "0x1de819dddc3ed8079cad612e24425eedd0f6ce3b",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:23.954Z",
+      "holderInfo": {
+        "address": "0x1de819dddc3ed8079cad612e24425eedd0f6ce3b",
+        "balance": "1543652000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.1544"
+      }
+    },
+    {
+      "address": "0x8027ac78c340d81356a0286e03b7216e9eb40f95",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 27种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5633802816901409,
+            "uniqueCounterparties": 41,
+            "uniqueTokens": 27,
+            "totalTransactions": 213
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 77.5%",
+            "多代币交易: 27种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.775,
+            "avgInterval": 71657.40566037736,
+            "uniqueTokens": 27,
+            "avgDailyTxs": 1.2033898305084745,
+            "totalTransactions": 213
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 334.00663167926734,
+            "avgInterval": 137814.5652173913,
+            "weeklyPattern": 0.043478260869565216,
+            "monthlyPattern": 0.021739130434782608,
+            "totalOutgoing": 93
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:31.234Z",
+      "holderInfo": {
+        "address": "0x8027ac78c340d81356a0286e03b7216e9eb40f95",
+        "balance": "814314000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0814"
+      }
+    },
+    {
+      "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 342个",
+            "多代币支持: 190种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.288,
+            "uniqueCounterparties": 342,
+            "uniqueTokens": 190,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 40.4%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 190种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.4044943820224719,
+            "avgInterval": 6.023023023023023,
+            "uniqueTokens": 190,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 209908526338074.66,
+            "avgInterval": 8.455696202531646,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 712
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:31.236Z",
+      "holderInfo": {
+        "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+        "balance": "721043603552877996081656",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0721"
+      }
+    },
+    {
+      "address": "0xe9786294973de1cd376a0a6189d7ae250d490c16",
+      "classification": "CEX",
+      "confidence": 0.6400000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 0.8,
+          "factors": [
+            "存款导向: 86.5%",
+            "多样化交易对手: 272个",
+            "大量集中存款模式"
+          ],
+          "stats": {
+            "depositRatio": 0.864516129032258,
+            "uniqueCounterparties": 272,
+            "uniqueTokens": 3,
+            "totalTransactions": 620
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "bidirectionalRatio": 0.15671641791044777,
+            "avgInterval": 9151.605815831987,
+            "uniqueTokens": 3,
+            "avgDailyTxs": 9.253731343283581,
+            "totalTransactions": 620
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 3322.3250343377267,
+            "avgInterval": 11949.204819277109,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 84
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:31.237Z",
+      "holderInfo": {
+        "address": "0xe9786294973de1cd376a0a6189d7ae250d490c16",
+        "balance": "654195635926157054644389",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0654"
+      }
+    },
+    {
+      "address": "0xfd7ac7e9dfbb78a0ab17b2476bb890f178120d1d",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xfd7ac7e9dfbb78a0ab17b2476bb890f178120d1d",
+            "blockchain": "bnb",
+            "owner_key": "binance",
+            "custody_owner": "Binance",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 20种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5,
+            "uniqueCounterparties": 24,
+            "uniqueTokens": 20,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 100.0%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 20种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 1,
+            "avgInterval": 5.681681681681682,
+            "uniqueTokens": 20,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 6914.804108962154,
+            "avgInterval": 11.374749498997996,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 500
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:31.237Z",
+      "holderInfo": {
+        "address": "0xfd7ac7e9dfbb78a0ab17b2476bb890f178120d1d",
+        "balance": "637783201714903320226965",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0638"
+      }
+    },
+    {
+      "address": "0x1fb42f32200f700ab67e4f0519a1d335f39b7473",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "depositRatio": 0.502,
+            "uniqueCounterparties": 10,
+            "uniqueTokens": 9,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 99.2%",
+            "高频交易: 平均间隔16分钟",
+            "多代币交易: 9种代币",
+            "日均交易量: 83.3笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9920318725099602,
+            "avgInterval": 974.1601601601602,
+            "uniqueTokens": 9,
+            "avgDailyTxs": 83.33333333333333,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 25775.404835693287,
+            "avgInterval": 1953.036217303823,
+            "weeklyPattern": 0.002012072434607646,
+            "monthlyPattern": 0,
+            "totalOutgoing": 498
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:31.238Z",
+      "holderInfo": {
+        "address": "0x1fb42f32200f700ab67e4f0519a1d335f39b7473",
+        "balance": "600000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0600"
+      }
+    },
+    {
+      "address": "0x5565d64f29ea17355106df3ba5903eb793b3e139",
+      "classification": "CEX",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 0.7,
+          "factors": [
+            "存款导向: 66.6%",
+            "多样化交易对手: 502个",
+            "多代币支持: 406种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.666,
+            "uniqueCounterparties": 502,
+            "uniqueTokens": 406,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 50.2%",
+            "多代币交易: 406种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.5015015015015015,
+            "avgInterval": 118074.14914914915,
+            "uniqueTokens": 406,
+            "avgDailyTxs": 0.7320644216691069,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 4.502949950017842e+22,
+            "avgInterval": 341624.03003003006,
+            "weeklyPattern": 0.02702702702702703,
+            "monthlyPattern": 0.009009009009009009,
+            "totalOutgoing": 334
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:41.557Z",
+      "holderInfo": {
+        "address": "0x5565d64f29ea17355106df3ba5903eb793b3e139",
+        "balance": "411549365689032384235495",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0412"
+      }
+    },
+    {
+      "address": "0xad9ab6b2c98ef38f9ee3cee9961f2af23deda3cb",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:41.559Z",
+      "holderInfo": {
+        "address": "0xad9ab6b2c98ef38f9ee3cee9961f2af23deda3cb",
+        "balance": "404582809014282823122172",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0405"
+      }
+    },
+    {
+      "address": "0xe4de1d9f8bd302d8904e3cde6bed32f5d9a3ce73",
+      "classification": "Market Makers",
+      "confidence": 0.6000000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 42种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.522,
+            "uniqueCounterparties": 39,
+            "uniqueTokens": 42,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.75,
+          "factors": [
+            "双向交易比例: 91.6%",
+            "多代币交易: 42种代币",
+            "日均交易量: 14.3笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9157088122605364,
+            "avgInterval": 5990.531531531532,
+            "uniqueTokens": 42,
+            "avgDailyTxs": 14.285714285714286,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 3055.128316146621,
+            "avgInterval": 12546.207547169812,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0.0020964360587002098,
+            "totalOutgoing": 478
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:41.560Z",
+      "holderInfo": {
+        "address": "0xe4de1d9f8bd302d8904e3cde6bed32f5d9a3ce73",
+        "balance": "388257519719235867456493",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0388"
+      }
+    },
+    {
+      "address": "0x8d22698eba2126c6140ba52376ee84e71166459d",
+      "classification": "Market Makers",
+      "confidence": 0.6400000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "depositRatio": 0.466,
+            "uniqueCounterparties": 39,
+            "uniqueTokens": 2,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.8,
+          "factors": [
+            "双向交易比例: 87.3%",
+            "高频交易: 平均间隔3分钟",
+            "日均交易量: 333.3笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8726591760299626,
+            "avgInterval": 154.44144144144144,
+            "uniqueTokens": 2,
+            "avgDailyTxs": 333.3333333333333,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 761.0663500130786,
+            "avgInterval": 289.46904315196997,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 534
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:41.562Z",
+      "holderInfo": {
+        "address": "0x8d22698eba2126c6140ba52376ee84e71166459d",
+        "balance": "290118269187127490445380",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0290"
+      }
+    },
+    {
+      "address": "0xe16445ab6b7ea70380ce2d0c672cd7a8cd7a16f0",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 67个",
+            "多代币支持: 36种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.24251497005988024,
+            "uniqueCounterparties": 67,
+            "uniqueTokens": 36,
+            "totalTransactions": 334
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 32.0%",
+            "多代币交易: 36种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.3201581027667984,
+            "avgInterval": 389897.72672672675,
+            "uniqueTokens": 36,
+            "avgDailyTxs": 0.2220744680851064,
+            "totalTransactions": 334
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 20030.18079630839,
+            "avgInterval": 515221.22222222225,
+            "weeklyPattern": 0.011904761904761904,
+            "monthlyPattern": 0.03571428571428571,
+            "totalOutgoing": 253
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:41.565Z",
+      "holderInfo": {
+        "address": "0xe16445ab6b7ea70380ce2d0c672cd7a8cd7a16f0",
+        "balance": "279157910000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0279"
+      }
+    },
+    {
+      "address": "0xb7007ddc2283c5d4df000d19b4e6bea14f608226",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:53.622Z",
+      "holderInfo": {
+        "address": "0xb7007ddc2283c5d4df000d19b4e6bea14f608226",
+        "balance": "253768780000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0254"
+      }
+    },
+    {
+      "address": "0x32e3e876aa0c1732ed9efcf9d8615de7afaef59f",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 851个",
+            "多代币支持: 24种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.319,
+            "uniqueCounterparties": 851,
+            "uniqueTokens": 24,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 46.8%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 24种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.4684287812041116,
+            "avgInterval": 5.041041041041041,
+            "uniqueTokens": 24,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 4147925763.9747934,
+            "avgInterval": 7.405882352941177,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 681
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:53.625Z",
+      "holderInfo": {
+        "address": "0x32e3e876aa0c1732ed9efcf9d8615de7afaef59f",
+        "balance": "230651029168032099895046",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0231"
+      }
+    },
+    {
+      "address": "0x61abd70249ab1626c4500b4cd2156d1f1a0406fa",
+      "classification": "CEX",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x61abd70249ab1626c4500b4cd2156d1f1a0406fa",
+            "blockchain": "bnb",
+            "owner_key": "huobi",
+            "custody_owner": "Huobi",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 0.7,
+          "factors": [
+            "存款导向: 67.8%",
+            "多样化交易对手: 286个",
+            "多代币支持: 225种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.678,
+            "uniqueCounterparties": 286,
+            "uniqueTokens": 225,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 47.5%",
+            "多代币交易: 225种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.4749262536873156,
+            "avgInterval": 127394.26026026026,
+            "uniqueTokens": 225,
+            "avgDailyTxs": 0.6784260515603799,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 10019292204253.912,
+            "avgInterval": 396392.1775700935,
+            "weeklyPattern": 0.024922118380062305,
+            "monthlyPattern": 0.006230529595015576,
+            "totalOutgoing": 322
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:53.628Z",
+      "holderInfo": {
+        "address": "0x61abd70249ab1626c4500b4cd2156d1f1a0406fa",
+        "balance": "218182155401023572559131",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0218"
+      }
+    },
+    {
+      "address": "0x8b043aacf9436c9c1505d349056b52c1412c6cff",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:36:53.630Z",
+      "holderInfo": {
+        "address": "0x8b043aacf9436c9c1505d349056b52c1412c6cff",
+        "balance": "218078160000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0218"
+      }
+    },
+    {
+      "address": "0x29bbc2b5aff41a2143f7d28fe6944453178f1473",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 37种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.507,
+            "uniqueCounterparties": 38,
+            "uniqueTokens": 37,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 97.2%",
+            "高频交易: 平均间隔9分钟",
+            "多代币交易: 37种代币",
+            "日均交易量: 142.9笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9723865877712031,
+            "avgInterval": 535.2312312312313,
+            "uniqueTokens": 37,
+            "avgDailyTxs": 142.85714285714286,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 485725.76339869143,
+            "avgInterval": 1086.780487804878,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 493
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:36:53.632Z",
+      "holderInfo": {
+        "address": "0x29bbc2b5aff41a2143f7d28fe6944453178f1473",
+        "balance": "184374486552545136818000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0184"
+      }
+    },
+    {
+      "address": "0x81a254942e563142779de7b67d3996e9bfd38b1e",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:04.477Z",
+      "holderInfo": {
+        "address": "0x81a254942e563142779de7b67d3996e9bfd38b1e",
+        "balance": "179321770000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0179"
+      }
+    },
+    {
+      "address": "0x648da78dc1815f8d12af20edb8261b3daeccb9a5",
+      "classification": "CEX",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 0.7,
+          "factors": [
+            "存款导向: 65.2%",
+            "多样化交易对手: 239个",
+            "多代币支持: 84种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.652,
+            "uniqueCounterparties": 239,
+            "uniqueTokens": 84,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 53.4%",
+            "多代币交易: 84种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.5337423312883436,
+            "avgInterval": 9411.48048048048,
+            "uniqueTokens": 84,
+            "avgDailyTxs": 9.090909090909092,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 391374769159.0638,
+            "avgInterval": 26023.371757925073,
+            "weeklyPattern": 0.005763688760806916,
+            "monthlyPattern": 0,
+            "totalOutgoing": 348
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:04.478Z",
+      "holderInfo": {
+        "address": "0x648da78dc1815f8d12af20edb8261b3daeccb9a5",
+        "balance": "144142315345719285520406",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0144"
+      }
+    },
+    {
+      "address": "0x7c0b2511dd7bcf3024fecdeda4caaa1803283d50",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x7c0b2511dd7bcf3024fecdeda4caaa1803283d50",
+            "blockchain": "bnb",
+            "owner_key": "bybit",
+            "custody_owner": "Bybit",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 36种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5655375552282769,
+            "uniqueCounterparties": 37,
+            "uniqueTokens": 36,
+            "totalTransactions": 679
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 76.8%",
+            "多代币交易: 36种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.7682291666666666,
+            "avgInterval": 10057.787610619469,
+            "uniqueTokens": 36,
+            "avgDailyTxs": 8.4875,
+            "totalTransactions": 679
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 1199.699146620614,
+            "avgInterval": 21149.91156462585,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 295
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:04.481Z",
+      "holderInfo": {
+        "address": "0x7c0b2511dd7bcf3024fecdeda4caaa1803283d50",
+        "balance": "143513190843956387427427",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0144"
+      }
+    },
+    {
+      "address": "0xf95f84e2bad9c234f93dd66614b82f9a854b452e",
+      "classification": "Market Makers",
+      "confidence": 0.6400000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多样化交易对手: 77个"
+          ],
+          "stats": {
+            "depositRatio": 0.492,
+            "uniqueCounterparties": 77,
+            "uniqueTokens": 2,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.8,
+          "factors": [
+            "双向交易比例: 96.9%",
+            "高频交易: 平均间隔9分钟",
+            "日均交易量: 142.9笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.968503937007874,
+            "avgInterval": 551.8698698698698,
+            "uniqueTokens": 2,
+            "avgDailyTxs": 142.85714285714286,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 186.2355659690467,
+            "avgInterval": 1087.3984220907298,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 508
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:04.483Z",
+      "holderInfo": {
+        "address": "0xf95f84e2bad9c234f93dd66614b82f9a854b452e",
+        "balance": "143151849147739719421356",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0143"
+      }
+    },
+    {
+      "address": "0xdd53ccc825f4582e8c7e35ba0bffcf55cf3863b6",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xdd53ccc825f4582e8c7e35ba0bffcf55cf3863b6",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.5,
+          "factors": [
+            "存款导向: 67.3%",
+            "多代币支持: 17种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.673469387755102,
+            "uniqueCounterparties": 26,
+            "uniqueTokens": 17,
+            "totalTransactions": 147
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 48.5%",
+            "多代币交易: 17种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.48484848484848486,
+            "avgInterval": 223739.24657534246,
+            "uniqueTokens": 17,
+            "avgDailyTxs": 0.38786279683377306,
+            "totalTransactions": 147
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 378.972108599018,
+            "avgInterval": 29331.893617021276,
+            "weeklyPattern": 0.02127659574468085,
+            "monthlyPattern": 0,
+            "totalOutgoing": 48
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:04.484Z",
+      "holderInfo": {
+        "address": "0xdd53ccc825f4582e8c7e35ba0bffcf55cf3863b6",
+        "balance": "139735010657076856884598",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0140"
+      }
+    },
+    {
+      "address": "0x1b72bac3772050fdcaf468cce7e20deb3cb02d89",
+      "classification": "CEX",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x1b72bac3772050fdcaf468cce7e20deb3cb02d89",
+            "blockchain": "bnb",
+            "owner_key": "kucoin",
+            "custody_owner": "KuCoin",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 1,
+          "factors": [
+            "存款导向: 74.6%",
+            "多样化交易对手: 285个",
+            "多代币支持: 214种代币",
+            "大量集中存款模式"
+          ],
+          "stats": {
+            "depositRatio": 0.746,
+            "uniqueCounterparties": 285,
+            "uniqueTokens": 214,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 34.0%",
+            "多代币交易: 214种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.34048257372654156,
+            "avgInterval": 125742.75975975976,
+            "uniqueTokens": 214,
+            "avgDailyTxs": 0.6872852233676976,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 32285.480602424752,
+            "avgInterval": 485618.3833992095,
+            "weeklyPattern": 0.043478260869565216,
+            "monthlyPattern": 0.007905138339920948,
+            "totalOutgoing": 254
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:18.942Z",
+      "holderInfo": {
+        "address": "0x1b72bac3772050fdcaf468cce7e20deb3cb02d89",
+        "balance": "116481364918499534742931",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0116"
+      }
+    },
+    {
+      "address": "0x5d9b3be809728d1f674d7fa6f387a8f7c7052e1c",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:18.943Z",
+      "holderInfo": {
+        "address": "0x5d9b3be809728d1f674d7fa6f387a8f7c7052e1c",
+        "balance": "109584564200000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0110"
+      }
+    },
+    {
+      "address": "0xc09796718f49a9759c535c6b9c23bc76b1b1323d",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:18.943Z",
+      "holderInfo": {
+        "address": "0xc09796718f49a9759c535c6b9c23bc76b1b1323d",
+        "balance": "105601124154850000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0106"
+      }
+    },
+    {
+      "address": "0xdfde28560129ee7f2e76a193cc17e24b048cfc18",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xdfde28560129ee7f2e76a193cc17e24b048cfc18",
+            "blockchain": "bnb",
+            "owner_key": "huobi",
+            "custody_owner": "Huobi",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 21种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5340909090909091,
+            "uniqueCounterparties": 39,
+            "uniqueTokens": 21,
+            "totalTransactions": 88
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 11897.614376117435,
+            "avgInterval": 116055.725,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 41
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:18.944Z",
+      "holderInfo": {
+        "address": "0xdfde28560129ee7f2e76a193cc17e24b048cfc18",
+        "balance": "97694560554703785369534",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0098"
+      }
+    },
+    {
+      "address": "0xd8be227dabc9aef3e261335354f10898b0287c48",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 134个",
+            "多代币支持: 144种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5850891410048622,
+            "uniqueCounterparties": 134,
+            "uniqueTokens": 144,
+            "totalTransactions": 617
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 70.9%",
+            "多代币交易: 144种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.7091412742382271,
+            "avgInterval": 17569.198051948053,
+            "uniqueTokens": 144,
+            "avgDailyTxs": 4.896825396825397,
+            "totalTransactions": 617
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 35741715538.61286,
+            "avgInterval": 34206.51372549019,
+            "weeklyPattern": 0.00784313725490196,
+            "monthlyPattern": 0,
+            "totalOutgoing": 256
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:18.945Z",
+      "holderInfo": {
+        "address": "0xd8be227dabc9aef3e261335354f10898b0287c48",
+        "balance": "90000252348988150918769",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0090"
+      }
+    },
+    {
+      "address": "0x74db6bfa2fed075c4eef5bb68e4f73d32225ef30",
+      "classification": "CEX",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 0.7,
+          "factors": [
+            "存款导向: 63.0%",
+            "多样化交易对手: 72个",
+            "多代币支持: 45种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.6302521008403361,
+            "uniqueCounterparties": 72,
+            "uniqueTokens": 45,
+            "totalTransactions": 119
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 58.7%",
+            "多代币交易: 45种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.5866666666666667,
+            "avgInterval": 943222.7542372881,
+            "uniqueTokens": 45,
+            "avgDailyTxs": 0.09231962761830877,
+            "totalTransactions": 119
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 6262.095388087212,
+            "avgInterval": 2014068.2325581396,
+            "weeklyPattern": 0.046511627906976744,
+            "monthlyPattern": 0.023255813953488372,
+            "totalOutgoing": 44
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:30.692Z",
+      "holderInfo": {
+        "address": "0x74db6bfa2fed075c4eef5bb68e4f73d32225ef30",
+        "balance": "76994248720326406689652",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0077"
+      }
+    },
+    {
+      "address": "0x0be39b8d86b7215d67202b039f29361428b08dca",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 198个",
+            "多代币支持: 113种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5648949320148331,
+            "uniqueCounterparties": 198,
+            "uniqueTokens": 113,
+            "totalTransactions": 809
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 77.0%",
+            "多代币交易: 113种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.7702407002188184,
+            "avgInterval": 154781.2004950495,
+            "uniqueTokens": 113,
+            "avgDailyTxs": 0.5583160800552105,
+            "totalTransactions": 809
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 164805.39743077368,
+            "avgInterval": 356301.0455840456,
+            "weeklyPattern": 0.017094017094017096,
+            "monthlyPattern": 0.017094017094017096,
+            "totalOutgoing": 352
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:30.693Z",
+      "holderInfo": {
+        "address": "0x0be39b8d86b7215d67202b039f29361428b08dca",
+        "balance": "75616602534300000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0076"
+      }
+    },
+    {
+      "address": "0x9bdd910b824b23eb0fee6d1fec7c09e07447deb5",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 18种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.34375,
+            "uniqueCounterparties": 34,
+            "uniqueTokens": 18,
+            "totalTransactions": 64
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 2933.691957351042,
+            "avgInterval": 121636.9268292683,
+            "weeklyPattern": 0.07317073170731707,
+            "monthlyPattern": 0,
+            "totalOutgoing": 42
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:30.694Z",
+      "holderInfo": {
+        "address": "0x9bdd910b824b23eb0fee6d1fec7c09e07447deb5",
+        "balance": "66630095592323233745956",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0067"
+      }
+    },
+    {
+      "address": "0x2b3bf74b29f59fb8dda41cf3d6a8da28cf8e7921",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 696个",
+            "多代币支持: 103种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.534,
+            "uniqueCounterparties": 696,
+            "uniqueTokens": 103,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 87.3%",
+            "高频交易: 平均间隔1分钟",
+            "多代币交易: 103种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8726591760299626,
+            "avgInterval": 53.63763763763764,
+            "uniqueTokens": 103,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 6161952216.063167,
+            "avgInterval": 115.16129032258064,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 466
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:30.695Z",
+      "holderInfo": {
+        "address": "0x2b3bf74b29f59fb8dda41cf3d6a8da28cf8e7921",
+        "balance": "63681123464533340000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0064"
+      }
+    },
+    {
+      "address": "0xf318cde0a6c065edeaa77d982b4f979821de013b",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xf318cde0a6c065edeaa77d982b4f979821de013b",
+            "blockchain": "bnb",
+            "owner_key": "okex",
+            "custody_owner": "OKEx",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 102个",
+            "多代币支持: 75种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.3221476510067114,
+            "uniqueCounterparties": 102,
+            "uniqueTokens": 75,
+            "totalTransactions": 298
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 47.5%",
+            "多代币交易: 75种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.4752475247524752,
+            "avgInterval": 41504.24915824916,
+            "uniqueTokens": 75,
+            "avgDailyTxs": 2.0694444444444446,
+            "totalTransactions": 298
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 25419555.489350703,
+            "avgInterval": 56557.7263681592,
+            "weeklyPattern": 0.009950248756218905,
+            "monthlyPattern": 0.004975124378109453,
+            "totalOutgoing": 202
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:30.695Z",
+      "holderInfo": {
+        "address": "0xf318cde0a6c065edeaa77d982b4f979821de013b",
+        "balance": "62746794473157998904561",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0063"
+      }
+    },
+    {
+      "address": "0xd96e09913ee3e3afafe0921e2baf973aac8483d9",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 247个",
+            "多代币支持: 132种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.47354497354497355,
+            "uniqueCounterparties": 247,
+            "uniqueTokens": 132,
+            "totalTransactions": 756
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 89.9%",
+            "多代币交易: 132种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8994974874371859,
+            "avgInterval": 144039.72715231788,
+            "uniqueTokens": 132,
+            "avgDailyTxs": 0.6,
+            "totalTransactions": 756
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 5131.3479889822775,
+            "avgInterval": 272203.25692695216,
+            "weeklyPattern": 0.03526448362720403,
+            "monthlyPattern": 0.022670025188916875,
+            "totalOutgoing": 398
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:40.785Z",
+      "holderInfo": {
+        "address": "0xd96e09913ee3e3afafe0921e2baf973aac8483d9",
+        "balance": "62500000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0063"
+      }
+    },
+    {
+      "address": "0xd93df2850f67ca341f93f3526cbad40cd7da3d13",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 105个",
+            "多代币支持: 102种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.51,
+            "uniqueCounterparties": 105,
+            "uniqueTokens": 102,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 96.1%",
+            "高频交易: 平均间隔30分钟",
+            "多代币交易: 102种代币",
+            "日均交易量: 45.5笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9607843137254902,
+            "avgInterval": 1806.3243243243244,
+            "uniqueTokens": 102,
+            "avgDailyTxs": 45.45454545454545,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 63167847858.206345,
+            "avgInterval": 3673.9447852760736,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 490
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:40.793Z",
+      "holderInfo": {
+        "address": "0xd93df2850f67ca341f93f3526cbad40cd7da3d13",
+        "balance": "60653821450852160061060",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0061"
+      }
+    },
+    {
+      "address": "0xc5b8aa0323e36905461da442389abbd8e6af3f58",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xc5b8aa0323e36905461da442389abbd8e6af3f58",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:40.798Z",
+      "holderInfo": {
+        "address": "0xc5b8aa0323e36905461da442389abbd8e6af3f58",
+        "balance": "54702756231929778532108",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0055"
+      }
+    },
+    {
+      "address": "0xdedab45b4fbcf892c608b500cb7fe86c9b4dec09",
+      "classification": "Market Makers",
+      "confidence": 0.6000000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 218个",
+            "多代币支持: 62种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.335,
+            "uniqueCounterparties": 218,
+            "uniqueTokens": 62,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.75,
+          "factors": [
+            "双向交易比例: 50.4%",
+            "多代币交易: 62种代币",
+            "日均交易量: 15.6笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.5037593984962406,
+            "avgInterval": 5463.9009009009005,
+            "uniqueTokens": 62,
+            "avgDailyTxs": 15.625,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 5209.109440366264,
+            "avgInterval": 8206.974397590362,
+            "weeklyPattern": 0.0015060240963855422,
+            "monthlyPattern": 0,
+            "totalOutgoing": 665
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:40.800Z",
+      "holderInfo": {
+        "address": "0xdedab45b4fbcf892c608b500cb7fe86c9b4dec09",
+        "balance": "51843094004178422432040",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0052"
+      }
+    },
+    {
+      "address": "0xa23ef2319ba4c933ebfdba80c332664a6cb13f1a",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xa23ef2319ba4c933ebfdba80c332664a6cb13f1a",
+            "blockchain": "bnb",
+            "owner_key": "bybit",
+            "custody_owner": "Bybit",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 843个",
+            "多代币支持: 12种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.431,
+            "uniqueCounterparties": 843,
+            "uniqueTokens": 12,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 75.7%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 12种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.7574692442882249,
+            "avgInterval": 28.864864864864863,
+            "uniqueTokens": 12,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 1730.6180654014236,
+            "avgInterval": 50.767605633802816,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 569
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:40.801Z",
+      "holderInfo": {
+        "address": "0xa23ef2319ba4c933ebfdba80c332664a6cb13f1a",
+        "balance": "51511294885116214733558",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0052"
+      }
+    },
+    {
+      "address": "0x283048844959fcc5d7b93c168d66be72fad21d5d",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x283048844959fcc5d7b93c168d66be72fad21d5d",
+            "blockchain": "bnb",
+            "owner_key": "binance",
+            "custody_owner": "Binance",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 149个",
+            "多代币支持: 109种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.4595808383233533,
+            "uniqueCounterparties": 149,
+            "uniqueTokens": 109,
+            "totalTransactions": 668
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 85.0%",
+            "多代币交易: 109种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.850415512465374,
+            "avgInterval": 24801.85607196402,
+            "uniqueTokens": 109,
+            "avgDailyTxs": 3.4791666666666665,
+            "totalTransactions": 668
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 64873662.156055905,
+            "avgInterval": 45147.71944444445,
+            "weeklyPattern": 0.011111111111111112,
+            "monthlyPattern": 0.002777777777777778,
+            "totalOutgoing": 361
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:51.683Z",
+      "holderInfo": {
+        "address": "0x283048844959fcc5d7b93c168d66be72fad21d5d",
+        "balance": "51071985024225281220900",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0051"
+      }
+    },
+    {
+      "address": "0xb751836846799ca8f75f15807ec99c28ba3cbbfb",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 6056.18899341159,
+            "avgInterval": 3977813.1,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 11
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:51.683Z",
+      "holderInfo": {
+        "address": "0xb751836846799ca8f75f15807ec99c28ba3cbbfb",
+        "balance": "49387960000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0049"
+      }
+    },
+    {
+      "address": "0xe2a145f82c0a1c3911bd61c386c12d235da46423",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xe2a145f82c0a1c3911bd61c386c12d235da46423",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 19种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.55,
+            "uniqueCounterparties": 31,
+            "uniqueTokens": 19,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 81.8%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 19种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8181818181818182,
+            "avgInterval": 12.511511511511511,
+            "uniqueTokens": 19,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 9709238.588822221,
+            "avgInterval": 27.79955456570156,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 450
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:51.684Z",
+      "holderInfo": {
+        "address": "0xe2a145f82c0a1c3911bd61c386c12d235da46423",
+        "balance": "46404339819665133702404",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0046"
+      }
+    },
+    {
+      "address": "0x3942f7b55094250644cffda7160226caa349a38e",
+      "classification": "Market Makers",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多样化交易对手: 318个"
+          ],
+          "stats": {
+            "depositRatio": 0.006,
+            "uniqueCounterparties": 318,
+            "uniqueTokens": 6,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.7,
+          "factors": [
+            "高频交易: 平均间隔59分钟",
+            "多代币交易: 6种代币",
+            "日均交易量: 23.8笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.006036217303822937,
+            "avgInterval": 3539.938938938939,
+            "uniqueTokens": 6,
+            "avgDailyTxs": 23.80952380952381,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 385.6958856468744,
+            "avgInterval": 3561.328298086606,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 994
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:37:51.685Z",
+      "holderInfo": {
+        "address": "0x3942f7b55094250644cffda7160226caa349a38e",
+        "balance": "42159082636480580359478",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0042"
+      }
+    },
+    {
+      "address": "0x4b6c68c959b4a0cd97569a38bb8aa423950d6a0e",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:37:51.685Z",
+      "holderInfo": {
+        "address": "0x4b6c68c959b4a0cd97569a38bb8aa423950d6a0e",
+        "balance": "39166423257446629045476",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0039"
+      }
+    },
+    {
+      "address": "0x095483a98b6d864d510bccfe5d78991305ca5240",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 19种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.504,
+            "uniqueCounterparties": 25,
+            "uniqueTokens": 19,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 98.4%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 19种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9841269841269841,
+            "avgInterval": 2.894894894894895,
+            "uniqueTokens": 19,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 32511.30192681246,
+            "avgInterval": 5.842424242424243,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 496
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:02.946Z",
+      "holderInfo": {
+        "address": "0x095483a98b6d864d510bccfe5d78991305ca5240",
+        "balance": "38883864102484522209595",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0039"
+      }
+    },
+    {
+      "address": "0x4b350b4d6d57497d1adf1d910da5e1ee63e2b186",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x4b350b4d6d57497d1adf1d910da5e1ee63e2b186",
+            "blockchain": "bnb",
+            "owner_key": "bybit",
+            "custody_owner": "Bybit",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:02.954Z",
+      "holderInfo": {
+        "address": "0x4b350b4d6d57497d1adf1d910da5e1ee63e2b186",
+        "balance": "38390765318511574720469",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0038"
+      }
+    },
+    {
+      "address": "0xf17ba44e9db4b3244ca667b4dcd530f9b7abe891",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xf17ba44e9db4b3244ca667b4dcd530f9b7abe891",
+            "blockchain": "bnb",
+            "owner_key": "binance",
+            "custody_owner": "Binance",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.5,
+          "factors": [
+            "存款导向: 63.5%",
+            "多代币支持: 24种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.6346153846153846,
+            "uniqueCounterparties": 19,
+            "uniqueTokens": 24,
+            "totalTransactions": 52
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 201881.99319521608,
+            "avgInterval": 73756.5,
+            "weeklyPattern": 0.05555555555555555,
+            "monthlyPattern": 0,
+            "totalOutgoing": 19
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:02.958Z",
+      "holderInfo": {
+        "address": "0xf17ba44e9db4b3244ca667b4dcd530f9b7abe891",
+        "balance": "35431469797762022386685",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0035"
+      }
+    },
+    {
+      "address": "0x12c24bb5beb721a0e179caad783376655db258ad",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 55个",
+            "多代币支持: 26种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.4931506849315068,
+            "uniqueCounterparties": 55,
+            "uniqueTokens": 26,
+            "totalTransactions": 146
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 97.3%",
+            "多代币交易: 26种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.972972972972973,
+            "avgInterval": 29475.17931034483,
+            "uniqueTokens": 26,
+            "avgDailyTxs": 2.8627450980392157,
+            "totalTransactions": 146
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 175228.58648414566,
+            "avgInterval": 58511.97260273973,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0.0136986301369863,
+            "totalOutgoing": 74
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:02.959Z",
+      "holderInfo": {
+        "address": "0x12c24bb5beb721a0e179caad783376655db258ad",
+        "balance": "34976157545712421248687",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0035"
+      }
+    },
+    {
+      "address": "0x1d5867cd60584afc2d84355447e4688e407bd173",
+      "classification": "CEX",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 1,
+          "factors": [
+            "存款导向: 71.9%",
+            "多样化交易对手: 63个",
+            "多代币支持: 55种代币",
+            "大量集中存款模式"
+          ],
+          "stats": {
+            "depositRatio": 0.7191780821917808,
+            "uniqueCounterparties": 63,
+            "uniqueTokens": 55,
+            "totalTransactions": 146
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 39.0%",
+            "多代币交易: 55种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.3904761904761905,
+            "avgInterval": 875379.4068965517,
+            "uniqueTokens": 55,
+            "avgDailyTxs": 0.09931972789115646,
+            "totalTransactions": 146
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 5818.416133996513,
+            "avgInterval": 2945466.425,
+            "weeklyPattern": 0.05,
+            "monthlyPattern": 0,
+            "totalOutgoing": 41
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:02.961Z",
+      "holderInfo": {
+        "address": "0x1d5867cd60584afc2d84355447e4688e407bd173",
+        "balance": "30213320664186953793925",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0030"
+      }
+    },
+    {
+      "address": "0xbbb5008da7ef90a416a4389fdad3872d6896cff9",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0xbbb5008da7ef90a416a4389fdad3872d6896cff9",
+            "blockchain": "bnb",
+            "owner_key": "binance",
+            "custody_owner": "Binance",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 98个",
+            "多代币支持: 93种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.556,
+            "uniqueCounterparties": 98,
+            "uniqueTokens": 93,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 79.9%",
+            "高频交易: 平均间隔1分钟",
+            "多代币交易: 93种代币",
+            "日均交易量: 500.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.7985611510791367,
+            "avgInterval": 67.50950950950951,
+            "uniqueTokens": 93,
+            "avgDailyTxs": 500,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 83262538.14779921,
+            "avgInterval": 152.2392776523702,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 444
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:12.706Z",
+      "holderInfo": {
+        "address": "0xbbb5008da7ef90a416a4389fdad3872d6896cff9",
+        "balance": "30000005944087293122782",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0030"
+      }
+    },
+    {
+      "address": "0xf36cdcd69222f4b128e8f0df48c2914ee8e9288f",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 67个",
+            "多代币支持: 66种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.527292576419214,
+            "uniqueCounterparties": 67,
+            "uniqueTokens": 66,
+            "totalTransactions": 916
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 89.6%",
+            "多代币交易: 66种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8964803312629399,
+            "avgInterval": 13539.31693989071,
+            "uniqueTokens": 66,
+            "avgDailyTxs": 6.361111111111111,
+            "totalTransactions": 916
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 24513.065332470975,
+            "avgInterval": 28593.310185185186,
+            "weeklyPattern": 0.0023148148148148147,
+            "monthlyPattern": 0,
+            "totalOutgoing": 433
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:12.711Z",
+      "holderInfo": {
+        "address": "0xf36cdcd69222f4b128e8f0df48c2914ee8e9288f",
+        "balance": "29717310267481013395015",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0030"
+      }
+    },
+    {
+      "address": "0x4cd0cfce6ac3c69b207d1062db485e84b853d35d",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 11种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.48,
+            "uniqueCounterparties": 17,
+            "uniqueTokens": 11,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 92.3%",
+            "高频交易: 平均间隔9分钟",
+            "多代币交易: 11种代币",
+            "日均交易量: 142.9笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9230769230769231,
+            "avgInterval": 522.2262262262262,
+            "uniqueTokens": 11,
+            "avgDailyTxs": 142.85714285714286,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 2881.9466354286424,
+            "avgInterval": 1005.0366088631985,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 520
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:12.714Z",
+      "holderInfo": {
+        "address": "0x4cd0cfce6ac3c69b207d1062db485e84b853d35d",
+        "balance": "29440916717953242245802",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0029"
+      }
+    },
+    {
+      "address": "0xc4026b7874776b91d9a69b6342502bd7b253ff66",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:12.715Z",
+      "holderInfo": {
+        "address": "0xc4026b7874776b91d9a69b6342502bd7b253ff66",
+        "balance": "29381644336965384628949",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0029"
+      }
+    },
+    {
+      "address": "0x3be67aeadf6d83f0aff59d27e8cf0c004eae5186",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x3be67aeadf6d83f0aff59d27e8cf0c004eae5186",
+            "blockchain": "bnb",
+            "owner_key": "huobi",
+            "custody_owner": "Huobi",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:12.716Z",
+      "holderInfo": {
+        "address": "0x3be67aeadf6d83f0aff59d27e8cf0c004eae5186",
+        "balance": "28961962000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0029"
+      }
+    },
+    {
+      "address": "0x4de0ce34681e0ed4e7c4fcae1650b05daf9de047",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 305个",
+            "多代币支持: 159种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.3869294605809129,
+            "uniqueCounterparties": 305,
+            "uniqueTokens": 159,
+            "totalTransactions": 964
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 63.1%",
+            "多代币交易: 159种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.6311336717428088,
+            "avgInterval": 60144.256490135,
+            "uniqueTokens": 159,
+            "avgDailyTxs": 1.4366616989567809,
+            "totalTransactions": 964
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 1322313581394.246,
+            "avgInterval": 95423.33728813559,
+            "weeklyPattern": 0.010169491525423728,
+            "monthlyPattern": 0.005084745762711864,
+            "totalOutgoing": 591
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:25.823Z",
+      "holderInfo": {
+        "address": "0x4de0ce34681e0ed4e7c4fcae1650b05daf9de047",
+        "balance": "28892791344300588180012",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0029"
+      }
+    },
+    {
+      "address": "0x1652029146e39eff5549204f39eb01b88d6adca6",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:25.825Z",
+      "holderInfo": {
+        "address": "0x1652029146e39eff5549204f39eb01b88d6adca6",
+        "balance": "28356969113122056067970",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0028"
+      }
+    },
+    {
+      "address": "0xdb3ded7731c781224ec292e2163d9554c094fd7c",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 867个",
+            "多代币支持: 34种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.466,
+            "uniqueCounterparties": 867,
+            "uniqueTokens": 34,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 1,
+          "factors": [
+            "双向交易比例: 87.3%",
+            "高频交易: 平均间隔0分钟",
+            "多代币交易: 34种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8726591760299626,
+            "avgInterval": 26.54154154154154,
+            "uniqueTokens": 34,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 10931979.84740999,
+            "avgInterval": 49.72795497185741,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 534
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:25.826Z",
+      "holderInfo": {
+        "address": "0xdb3ded7731c781224ec292e2163d9554c094fd7c",
+        "balance": "28090813980640108955333",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0028"
+      }
+    },
+    {
+      "address": "0x1ab1a94cf30fc58d07664d1879c60a75f82393bd",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 90个",
+            "多代币支持: 75种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.5503875968992248,
+            "uniqueCounterparties": 90,
+            "uniqueTokens": 75,
+            "totalTransactions": 258
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 81.7%",
+            "多代币交易: 75种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.8169014084507042,
+            "avgInterval": 36664.74708171206,
+            "uniqueTokens": 75,
+            "avgDailyTxs": 2.3454545454545452,
+            "totalTransactions": 258
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 1216759.9601775557,
+            "avgInterval": 80335.10434782608,
+            "weeklyPattern": 0.02608695652173913,
+            "monthlyPattern": 0.008695652173913044,
+            "totalOutgoing": 116
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:25.827Z",
+      "holderInfo": {
+        "address": "0x1ab1a94cf30fc58d07664d1879c60a75f82393bd",
+        "balance": "27974955178712905951159",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0028"
+      }
+    },
+    {
+      "address": "0xa7082d7935830e476932196d241d5db60529b4af",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多样化交易对手: 1000个"
+          ],
+          "stats": {
+            "depositRatio": 0.006,
+            "uniqueCounterparties": 1000,
+            "uniqueTokens": 7,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.45,
+          "factors": [
+            "多代币交易: 7种代币",
+            "日均交易量: 16.7笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.006036217303822937,
+            "avgInterval": 5126.253253253253,
+            "uniqueTokens": 7,
+            "avgDailyTxs": 16.666666666666668,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 224.24154320925618,
+            "avgInterval": 5157.227593152064,
+            "weeklyPattern": 0.0010070493454179255,
+            "monthlyPattern": 0,
+            "totalOutgoing": 994
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:25.828Z",
+      "holderInfo": {
+        "address": "0xa7082d7935830e476932196d241d5db60529b4af",
+        "balance": "27041280600000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0027"
+      }
+    },
+    {
+      "address": "0x317cd61fa24e2e4068b4c47bd58d5fc9f4e7a12b",
+      "classification": "Market Makers",
+      "confidence": 0.5599999999999999,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多样化交易对手: 311个"
+          ],
+          "stats": {
+            "depositRatio": 0,
+            "uniqueCounterparties": 311,
+            "uniqueTokens": 7,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.7,
+          "factors": [
+            "高频交易: 平均间隔1分钟",
+            "多代币交易: 7种代币",
+            "日均交易量: 1000.0笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0,
+            "avgInterval": 30.354354354354353,
+            "uniqueTokens": 7,
+            "avgDailyTxs": 1000,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 135359.3778413164,
+            "avgInterval": 30.354354354354353,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 1000
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:36.628Z",
+      "holderInfo": {
+        "address": "0x317cd61fa24e2e4068b4c47bd58d5fc9f4e7a12b",
+        "balance": "25800000011280000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0026"
+      }
+    },
+    {
+      "address": "0xe67f5c12e29d757fa96325de9dd29889e4d02be5",
+      "classification": "Market Makers",
+      "confidence": 0.6000000000000001,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 103个",
+            "多代币支持: 95种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.502,
+            "uniqueCounterparties": 103,
+            "uniqueTokens": 95,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": true,
+          "score": 0.75,
+          "factors": [
+            "双向交易比例: 99.2%",
+            "多代币交易: 95种代币",
+            "日均交易量: 19.6笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.9920318725099602,
+            "avgInterval": 4353.5025025025025,
+            "uniqueTokens": 95,
+            "avgDailyTxs": 19.607843137254903,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0.4,
+          "factors": [
+            "合约地址"
+          ],
+          "stats": {
+            "isContractAddress": true,
+            "regularityScore": 0,
+            "avgAmount": 513942528548.4794,
+            "avgInterval": 6149.0885311871225,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0.002012072434607646,
+            "totalOutgoing": 498
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:36.629Z",
+      "holderInfo": {
+        "address": "0xe67f5c12e29d757fa96325de9dd29889e4d02be5",
+        "balance": "25368094333593548058178",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0025"
+      }
+    },
+    {
+      "address": "0x1c3944173abee256456b1498299fc501ad5bbd6f",
+      "classification": "CEX",
+      "confidence": 0.8,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x1c3944173abee256456b1498299fc501ad5bbd6f",
+            "blockchain": "bnb",
+            "owner_key": "huobi",
+            "custody_owner": "Huobi",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 1,
+          "factors": [
+            "存款导向: 90.6%",
+            "多样化交易对手: 623个",
+            "多代币支持: 88种代币",
+            "大量集中存款模式"
+          ],
+          "stats": {
+            "depositRatio": 0.906,
+            "uniqueCounterparties": 623,
+            "uniqueTokens": 88,
+            "totalTransactions": 1000
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.45,
+          "factors": [
+            "多代币交易: 88种代币",
+            "日均交易量: 19.6笔"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.10375275938189846,
+            "avgInterval": 4373.2312312312315,
+            "uniqueTokens": 88,
+            "avgDailyTxs": 19.607843137254903,
+            "totalTransactions": 1000
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 11778646213.061451,
+            "avgInterval": 43618.354838709674,
+            "weeklyPattern": 0,
+            "monthlyPattern": 0,
+            "totalOutgoing": 94
+          }
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:38:36.629Z",
+      "holderInfo": {
+        "address": "0x1c3944173abee256456b1498299fc501ad5bbd6f",
+        "balance": "25033539300000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0025"
+      }
+    },
+    {
+      "address": "0x67e71a3b2f34b7cb7b5b0162ec1260a6ac034fd8",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x67e71a3b2f34b7cb7b5b0162ec1260a6ac034fd8",
+            "blockchain": "bnb",
+            "owner_key": "coinbase",
+            "custody_owner": "Coinbase",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.2,
+          "factors": [
+            "多代币支持: 35种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.2808219178082192,
+            "uniqueCounterparties": 44,
+            "uniqueTokens": 35,
+            "totalTransactions": 146
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 39.0%",
+            "多代币交易: 35种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.3904761904761905,
+            "avgInterval": 254201.2551724138,
+            "uniqueTokens": 35,
+            "avgDailyTxs": 0.34192037470725994,
+            "totalTransactions": 146
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 3754.7322974571425,
+            "avgInterval": 353949.2788461539,
+            "weeklyPattern": 0.019230769230769232,
+            "monthlyPattern": 0,
+            "totalOutgoing": 105
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:36.630Z",
+      "holderInfo": {
+        "address": "0x67e71a3b2f34b7cb7b5b0162ec1260a6ac034fd8",
+        "balance": "25000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0025"
+      }
+    },
+    {
+      "address": "0xe97ae8cd75b9358c2e7b2b3db29f22cd299311af",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0.4,
+          "factors": [
+            "多样化交易对手: 75个",
+            "多代币支持: 45种代币"
+          ],
+          "stats": {
+            "depositRatio": 0.2897196261682243,
+            "uniqueCounterparties": 75,
+            "uniqueTokens": 45,
+            "totalTransactions": 214
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.5,
+          "factors": [
+            "双向交易比例: 40.8%",
+            "多代币交易: 45种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.40789473684210525,
+            "avgInterval": 262354.25352112675,
+            "uniqueTokens": 45,
+            "avgDailyTxs": 0.33024691358024694,
+            "totalTransactions": 214
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "factors": [],
+          "stats": {
+            "isContractAddress": false,
+            "regularityScore": 0,
+            "avgAmount": 486030754.18673956,
+            "avgInterval": 367319.2052980132,
+            "weeklyPattern": 0.013245033112582781,
+            "monthlyPattern": 0,
+            "totalOutgoing": 152
+          }
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:38:36.630Z",
+      "holderInfo": {
+        "address": "0xe97ae8cd75b9358c2e7b2b3db29f22cd299311af",
+        "balance": "25000000000000000000000",
+        "tokenName": "Bedrock",
+        "tokenSymbol": "BR",
+        "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+        "decimals": 18,
+        "blockHeight": 50215402,
+        "chainName": "bsc-mainnet",
+        "updatedAt": "2025-05-24T06:03:22.869132235Z",
+        "holdingPercentage": "0.0025"
+      }
+    }
+  ],
+  "totalHoldersFound": 100,
+  "totalHoldersAnalyzed": 100,
+  "analysisConfig": {
+    "minHoldingPercentage": 0.0001,
+    "topN": 100,
+    "includeBalance": true,
+    "sortBy": "holdingPercentage"
+  },
+  "tokenInfo": [
+    {
+      "name": "Bedrock",
+      "symbol": "BR",
+      "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+      "decimals": 18,
+      "chainName": "bsc-mainnet"
+    }
+  ],
+  "holdingDistribution": {
+    "large": 5,
+    "medium": 6,
+    "small": 29,
+    "micro": 60
+  },
+  "riskDistribution": {
+    "large": {
+      "CEX": 0,
+      "Market Makers": 0,
+      "Team/Vesting": 0,
+      "Unknown": 5
+    },
+    "medium": {
+      "CEX": 0,
+      "Market Makers": 3,
+      "Team/Vesting": 0,
+      "Unknown": 3
+    },
+    "small": {
+      "CEX": 1,
+      "Market Makers": 5,
+      "Team/Vesting": 0,
+      "Unknown": 23
+    },
+    "micro": {
+      "CEX": 8,
+      "Market Makers": 20,
+      "Team/Vesting": 0,
+      "Unknown": 32
+    }
+  },
+  "topRiskHolders": [
+    {
+      "address": "0x3af23717c7637595b7c95d9e03b2a08d0470290d",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "20.0000",
+      "tokenSymbol": "BR",
+      "riskScore": 80
+    },
+    {
+      "address": "0xd7cda9ea2d23e8f473bb49225234449282ad6a62",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "20.0000",
+      "tokenSymbol": "BR",
+      "riskScore": 80
+    },
+    {
+      "address": "0xc22a28447453a2f1c2a6867a2d61153498ec13f2",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "14.5000",
+      "tokenSymbol": "BR",
+      "riskScore": 58
+    },
+    {
+      "address": "0x3f36d044c50cc701e1afa9e1425c632e59afba4c",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "12.5000",
+      "tokenSymbol": "BR",
+      "riskScore": 50
+    },
+    {
+      "address": "0xccdbff508f5d8544af01103a719325890c24b508",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "10.0000",
+      "tokenSymbol": "BR",
+      "riskScore": 40
+    },
+    {
+      "address": "0x882606470f29aba05856abf1b077cc55ad2a9ad9",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "4.0461",
+      "tokenSymbol": "BR",
+      "riskScore": 16.1844
+    },
+    {
+      "address": "0xbbd5c1a40fafaea7a00d23d2f8be68aa7a767989",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "2.3595",
+      "tokenSymbol": "BR",
+      "riskScore": 9.438
+    },
+    {
+      "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+      "classification": "Market Makers",
+      "confidence": 0.8,
+      "holdingPercentage": "2.8105",
+      "tokenSymbol": "BR",
+      "riskScore": 8.4315
+    },
+    {
+      "address": "0xba62c98d420caef91e4d731edea7265fdd60d664",
+      "classification": "Unknown",
+      "confidence": 0,
+      "holdingPercentage": "2.0000",
+      "tokenSymbol": "BR",
+      "riskScore": 8
+    },
+    {
+      "address": "0xce94aba9086f408b3f2af4e8b5ac1abc42f4da9a",
+      "classification": "Market Makers",
+      "confidence": 0.6400000000000001,
+      "holdingPercentage": "2.6075",
+      "tokenSymbol": "BR",
+      "riskScore": 7.8225
+    }
+  ]
+}

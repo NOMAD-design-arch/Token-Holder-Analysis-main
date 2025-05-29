@@ -1,0 +1,113 @@
+{
+  "total": 3,
+  "classifications": {
+    "CEX": 1,
+    "Market Makers": 0,
+    "Team/Vesting": 0,
+    "Unknown": 2
+  },
+  "highConfidence": 1,
+  "mediumConfidence": 0,
+  "lowConfidence": 2,
+  "details": [
+    {
+      "address": "0x3cc936b795a188f0e246cbb2d74c5bd190aecf18",
+      "classification": "CEX",
+      "confidence": 0.8,
+      "details": {
+        "cexAnalysis": {
+          "isCEX": true,
+          "score": 1,
+          "factors": [
+            "存款导向: 99.5%",
+            "多样化交易对手: 130个",
+            "多代币支持: 139种代币",
+            "大量集中存款模式"
+          ],
+          "stats": {
+            "depositRatio": 0.9945652173913043,
+            "uniqueCounterparties": 130,
+            "uniqueTokens": 139,
+            "totalTransactions": 184
+          }
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0.2,
+          "factors": [
+            "多代币交易: 139种代币"
+          ],
+          "stats": {
+            "bidirectionalRatio": 0.00546448087431694,
+            "avgInterval": 542452.4699453552,
+            "uniqueTokens": 139,
+            "avgDailyTxs": 0.16,
+            "totalTransactions": 184
+          }
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "behavior_analysis"
+      },
+      "timestamp": "2025-05-29T17:35:22.342Z"
+    },
+    {
+      "address": "0x28f1c61b4e3a1fe79de1af2c8c0b19348bbfa25e",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x28f1c61b4e3a1fe79de1af2c8c0b19348bbfa25e",
+            "blockchain": "bnb",
+            "owner_key": "bybit",
+            "custody_owner": "Bybit",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "reason": "无交易数据且无有效标签",
+        "classificationSource": "insufficient_data"
+      },
+      "timestamp": "2025-05-29T17:35:22.343Z"
+    },
+    {
+      "address": "0x853ee4b2a13f8a742d64c8f088be7ba2131f670d",
+      "classification": "Unknown",
+      "confidence": 0,
+      "details": {
+        "duneLabels": [
+          {
+            "address": "0x853ee4b2a13f8a742d64c8f088be7ba2131f670d",
+            "blockchain": "bnb",
+            "owner_key": "bybit",
+            "custody_owner": "Bybit",
+            "created_at": "2024-01-01 00:00:00.000 UTC",
+            "source": "mock_data"
+          }
+        ],
+        "cexAnalysis": {
+          "isCEX": false,
+          "score": 0,
+          "factors": [],
+          "reason": "交易数量不足"
+        },
+        "marketMakerAnalysis": {
+          "isMarketMaker": false,
+          "score": 0,
+          "reason": "交易数量不足"
+        },
+        "vestingAnalysis": {
+          "isTeamVesting": false,
+          "score": 0,
+          "reason": "转出交易数量不足"
+        },
+        "classificationSource": "no_pattern_match"
+      },
+      "timestamp": "2025-05-29T17:35:22.345Z"
+    }
+  ]
+}
